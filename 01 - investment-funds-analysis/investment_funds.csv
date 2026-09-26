@@ -1,0 +1,521 @@
+fund_name,asset_class,region,launch_year,aum_million_eur,annual_return_pct,volatility_pct,management_fee_pct
+Aurora Asia-Pacific Multi-Asset Strategic,Multi-Asset,Asia-Pacific,2020,1277.9,7.49,5.61,0.3
+Compass North America Bond Plus,Bond,North America,1997,231.8,2.48,4.94,0.51
+Frontier Europe Money Market Opportunities,Money Market,Europe,2005,656.0,1.98,1.35,0.32
+Compass Global Bond Dynamic,Bond,Global,2015,578.7,3.31,7.31,0.5
+Beacon Europe Equity Opportunities,Equity,Europe,1999,4101.6,3.82,19.19,1.34
+Crown North America Alternative Select,Alternative,North America,2015,4453.6,7.66,8.56,1.25
+Delta Emerging Markets Multi-Asset Focus,Multi-Asset,Emerging Markets,2017,123.1,7.13,10.54,1.11
+Meridian Emerging Markets Multi-Asset Core,Multi-Asset,Emerging Markets,2015,7870.7,6.98,11.83,0.9
+Pioneer Global Equity Plus,Equity,Global,2004,260.3,15.68,11.22,1.12
+Meridian North America Bond Plus,Bond,North America,1995,1733.1,7.22,5.99,0.66
+Evergreen Global Equity Strategic,Equity,Global,2022,1715.5,6.13,16.79,1.22
+Northstar Global Money Market Focus,Money Market,Global,2005,240.2,3.03,1.14,0.26
+Cedar North America Bond Focus,Bond,North America,2019,1064.5,2.04,4.0,0.7
+Summit Global Multi-Asset Plus,Multi-Asset,Global,2001,583.7,5.56,9.41,0.92
+Evergreen Europe Bond Select,Bond,Europe,2000,1131.5,2.1,5.65,0.54
+Northstar Europe Equity Core,Equity,Europe,2019,818.6,16.1,15.57,1.03
+Cedar Global Bond Focus,Bond,Global,2024,2150.2,4.51,5.39,1.05
+Vertex Europe Equity Opportunities,Equity,Europe,2021,700.9,6.91,14.72,0.9
+Evergreen Europe Multi-Asset Opportunities,Multi-Asset,Europe,2018,549.5,8.48,9.93,0.93
+Evergreen Asia-Pacific Bond Core,Bond,Asia-Pacific,2002,1945.0,-1.83,6.48,0.85
+Horizon Emerging Markets Multi-Asset Dynamic,Multi-Asset,Emerging Markets,2023,1161.4,0.46,9.45,1.08
+Crown Global Equity Select,Equity,Global,2015,1351.3,11.98,14.82,0.95
+Oak Asia-Pacific Alternative Select,Alternative,Asia-Pacific,2000,334.4,6.15,12.2,0.77
+Atlas Emerging Markets Money Market Core,Money Market,Emerging Markets,1999,228.5,2.73,0.79,0.35
+Pioneer Europe Multi-Asset Opportunities,Multi-Asset,Europe,2022,368.4,2.18,10.86,0.41
+Beacon North America Equity Plus,Equity,North America,2003,349.4,7.88,16.0,1.24
+Beacon North America Bond Opportunities,Bond,North America,2018,1426.8,8.61,6.04,0.63
+Atlas Europe Equity Dynamic,Equity,Europe,1999,1725.0,12.12,18.77,1.15
+Meridian Global Equity Strategic,Equity,Global,2003,556.6,8.85,10.38,0.77
+Compass North America Bond Opportunities,Bond,North America,2003,2718.7,2.5,3.87,0.29
+Summit North America Multi-Asset Strategic,Multi-Asset,North America,2003,2554.1,4.51,10.49,0.9
+Atlas Europe Alternative Dynamic,Alternative,Europe,2015,829.1,0.68,11.98,1.24
+Orion Europe Equity Focus,Equity,Europe,2023,285.7,9.29,16.49,0.85
+Juniper Emerging Markets Equity Core,Equity,Emerging Markets,2023,3141.2,12.23,14.67,0.97
+Atlas Europe Bond Core,Bond,Europe,2017,611.5,-0.34,6.72,1.15
+Cedar Europe Equity Plus,Equity,Europe,2001,737.4,4.69,18.69,1.12
+Juniper North America Equity Strategic,Equity,North America,2024,462.8,2.21,17.39,1.16
+Compass North America Bond Plus 2,Bond,North America,2011,267.0,1.19,5.72,0.77
+Cedar Global Equity Plus,Equity,Global,2011,149.7,8.27,9.93,1.25
+Atlas North America Bond Core,Bond,North America,2016,1224.0,-1.61,6.83,0.56
+Aurora Europe Bond Strategic,Bond,Europe,2018,297.0,5.14,7.32,0.19
+Compass Europe Multi-Asset Focus,Multi-Asset,Europe,2024,12000.0,7.38,11.16,0.81
+Frontier Asia-Pacific Multi-Asset Strategic,Multi-Asset,Asia-Pacific,2013,219.4,4.87,8.42,1.01
+Crown Global Equity Core,Equity,Global,2013,184.9,-4.4,17.94,0.76
+Delta Global Multi-Asset Opportunities,Multi-Asset,Global,2018,1082.6,3.01,11.55,0.81
+Northstar Global Multi-Asset Strategic,Multi-Asset,Global,2002,2999.8,8.58,12.81,0.71
+Aurora Global Equity Strategic,Equity,Global,2004,693.4,-5.89,13.48,1.25
+Aurora Europe Equity Dynamic,Equity,Europe,2014,1152.0,6.26,15.35,1.1
+Delta North America Bond Opportunities,Bond,North America,1996,102.9,0.65,6.81,0.73
+Frontier Global Equity Opportunities,Equity,Global,2004,330.1,12.02,16.17,1.07
+Oak North America Equity Plus,Equity,North America,2017,222.2,4.62,12.78,0.94
+Orion Asia-Pacific Equity Focus,Equity,Asia-Pacific,2025,97.7,10.02,17.19,0.99
+Harbor North America Multi-Asset Focus,Multi-Asset,North America,2011,730.7,6.91,11.04,0.61
+Oak Global Bond Focus,Bond,Global,2007,69.0,8.19,6.09,0.16
+Frontier Asia-Pacific Multi-Asset Opportunities,Multi-Asset,Asia-Pacific,2008,173.3,4.99,10.4,0.88
+Delta Global Multi-Asset Focus,Multi-Asset,Global,2016,379.9,6.44,9.53,0.91
+Meridian Emerging Markets Bond Focus,Bond,Emerging Markets,2011,283.1,-0.11,7.6,0.84
+Orion Global Bond Strategic,Bond,Global,1995,966.2,6.58,5.03,0.91
+Evergreen Asia-Pacific Equity Plus,Equity,Asia-Pacific,2011,882.3,4.2,14.31,1.26
+Cedar North America Equity Plus,Equity,North America,2007,1588.9,5.2,16.03,0.75
+Compass North America Bond Focus,Bond,North America,2016,1379.3,3.54,6.95,0.53
+Compass Global Bond Focus,Bond,Global,2022,2034.1,-0.31,4.38,0.7
+Crown Europe Bond Dynamic,Bond,Europe,2024,648.8,4.17,4.58,1.11
+Aurora North America Multi-Asset Strategic,Multi-Asset,North America,2013,880.5,7.92,6.33,1.15
+Summit Emerging Markets Bond Focus,Bond,Emerging Markets,2006,1084.1,4.33,6.04,0.82
+Harbor Global Bond Dynamic,Bond,Global,2008,748.9,-0.37,4.79,0.52
+Cedar Europe Bond Strategic,Bond,Europe,2000,436.9,3.29,5.58,0.42
+Cobalt North America Equity Dynamic,Equity,North America,2024,466.2,11.71,17.9,1.11
+Crown Europe Equity Strategic,Equity,Europe,2021,287.0,-1.39,14.15,0.73
+Oak Europe Bond Select,Bond,Europe,2021,990.9,0.91,6.25,0.55
+Juniper Emerging Markets Equity Focus,Equity,Emerging Markets,2005,591.7,12.38,15.14,0.93
+Compass North America Equity Dynamic,Equity,North America,2004,334.9,9.35,17.94,1.27
+Vertex North America Money Market Core,Money Market,North America,2021,335.2,3.13,1.3,0.18
+Vertex Global Equity Strategic,Equity,Global,2011,193.8,17.3,14.01,0.46
+Harbor Europe Equity Dynamic,Equity,Europe,2016,1729.9,10.34,15.51,1.05
+Delta North America Equity Core,Equity,North America,2010,703.2,11.29,19.01,0.81
+Horizon Global Equity Strategic,Equity,Global,2008,274.3,21.55,17.13,0.96
+Cobalt Global Bond Strategic,Bond,Global,2014,1459.0,3.07,4.49,0.58
+Northstar Emerging Markets Bond Strategic,Bond,Emerging Markets,2020,371.1,1.61,6.71,0.55
+Crown Global Multi-Asset Opportunities,Multi-Asset,Global,2005,159.2,6.57,8.05,1.01
+Evergreen North America Bond Strategic,Bond,North America,2020,1804.8,4.7,7.53,0.29
+Summit Global Equity Opportunities,Equity,Global,2002,379.9,5.37,18.95,0.85
+Vertex Emerging Markets Multi-Asset Focus,Multi-Asset,Emerging Markets,2007,431.8,2.92,10.52,0.99
+Delta Global Equity Core,Equity,Global,2023,677.3,19.55,16.45,0.83
+Juniper Emerging Markets Equity Dynamic,Equity,Emerging Markets,2024,2037.7,9.63,15.4,0.63
+Vertex Asia-Pacific Equity Strategic,Equity,Asia-Pacific,2023,663.2,4.34,17.95,1.08
+Atlas Asia-Pacific Multi-Asset Focus,Multi-Asset,Asia-Pacific,2004,195.9,7.79,9.33,1.07
+Northstar Europe Bond Focus,Bond,Europe,2021,1119.7,3.33,6.25,0.59
+Evergreen Global Equity Strategic 2,Equity,Global,2024,400.2,6.74,18.51,0.56
+Juniper North America Bond Dynamic,Bond,North America,2025,4293.7,5.01,5.39,0.74
+Frontier Global Equity Select,Equity,Global,1995,649.3,1.54,14.23,0.62
+Harbor Global Bond Plus,Bond,Global,2018,69.5,4.48,4.71,0.66
+Juniper Emerging Markets Bond Dynamic,Bond,Emerging Markets,2025,929.2,8.38,4.85,0.42
+Beacon Emerging Markets Equity Plus,Equity,Emerging Markets,2018,4544.0,10.33,10.73,0.72
+Cobalt North America Equity Plus,Equity,North America,2002,3142.9,6.12,18.1,0.86
+Evergreen Global Bond Plus,Bond,Global,2018,4055.9,2.33,7.95,0.56
+Pioneer Global Equity Strategic,Equity,Global,1998,234.4,5.95,20.1,0.82
+Summit North America Equity Dynamic,Equity,North America,2009,1618.3,6.73,11.32,1.07
+Orion Europe Equity Select,Equity,Europe,2014,315.8,6.11,18.09,0.86
+Aurora Europe Alternative Focus,Alternative,Europe,2009,813.4,8.29,15.07,1.45
+Orion Global Money Market Strategic,Money Market,Global,2016,182.0,-2.23,1.1,0.31
+Harbor North America Bond Focus,Bond,North America,2002,341.2,5.76,6.11,0.46
+Juniper Emerging Markets Equity Plus,Equity,Emerging Markets,2013,330.5,6.1,10.22,0.78
+Orion North America Alternative Core,Alternative,North America,2014,1596.4,6.94,12.58,0.92
+Horizon Emerging Markets Multi-Asset Opportunities,Multi-Asset,Emerging Markets,2014,1447.6,2.68,8.09,0.91
+Oak North America Multi-Asset Focus,Multi-Asset,North America,2003,857.3,8.82,10.36,0.78
+Vertex Asia-Pacific Bond Focus,Bond,Asia-Pacific,2004,168.4,6.71,4.31,0.13
+Meridian Europe Equity Core,Equity,Europe,2002,476.0,12.8,17.56,0.84
+Summit Global Equity Select,Equity,Global,2009,308.2,0.43,18.95,0.77
+Delta Asia-Pacific Money Market Strategic,Money Market,Asia-Pacific,2013,1551.0,4.17,1.03,0.57
+Vertex Emerging Markets Bond Focus,Bond,Emerging Markets,2006,2111.5,4.61,4.77,0.26
+Frontier Asia-Pacific Equity Core,Equity,Asia-Pacific,2007,1869.4,-0.03,9.79,0.66
+Vertex Europe Equity Core,Equity,Europe,2003,305.4,7.88,15.23,1.17
+Atlas North America Bond Focus,Bond,North America,2001,42.0,4.51,5.37,0.87
+Atlas Europe Equity Select,Equity,Europe,2015,111.1,10.78,11.53,0.8
+Juniper Europe Money Market Dynamic,Money Market,Europe,2020,2693.5,2.54,1.3,0.12
+Compass Global Multi-Asset Strategic,Multi-Asset,Global,2004,435.2,6.23,9.19,0.97
+Juniper Global Multi-Asset Select,Multi-Asset,Global,2021,306.8,9.18,8.06,0.38
+Northstar Global Bond Dynamic,Bond,Global,2012,3359.8,6.67,5.4,0.23
+Orion Asia-Pacific Bond Select,Bond,Asia-Pacific,2000,2303.4,-3.57,7.16,0.54
+Cobalt Global Bond Opportunities,Bond,Global,2006,666.1,2.81,6.65,0.91
+Crown Asia-Pacific Bond Plus,Bond,Asia-Pacific,1995,484.7,3.19,5.86,0.51
+Northstar Europe Equity Focus,Equity,Europe,1996,569.6,-0.76,17.78,0.97
+Harbor Europe Equity Plus,Equity,Europe,2005,815.8,8.47,12.66,1.18
+Evergreen Global Equity Select,Equity,Global,2009,3219.6,14.24,16.09,1.37
+Beacon Asia-Pacific Bond Opportunities,Bond,Asia-Pacific,2019,991.7,0.88,6.16,0.48
+Meridian Europe Equity Focus,Equity,Europe,1999,1343.5,9.68,14.65,0.95
+Evergreen Global Equity Focus,Equity,Global,2021,2092.8,3.42,17.25,1.31
+Vertex Global Equity Plus,Equity,Global,2002,201.8,4.64,13.75,0.65
+Cedar Europe Bond Core,Bond,Europe,1999,1382.8,7.29,6.55,0.81
+Cobalt North America Equity Strategic,Equity,North America,2016,484.2,5.29,17.59,0.75
+Frontier Asia-Pacific Money Market Plus,Money Market,Asia-Pacific,2019,52.5,3.26,0.57,0.27
+Juniper Global Bond Focus,Bond,Global,2013,77.4,-1.08,7.29,0.55
+Compass Europe Equity Opportunities,Equity,Europe,1998,234.8,17.31,7.22,0.76
+Beacon Asia-Pacific Bond Focus,Bond,Asia-Pacific,1998,1105.7,5.11,5.33,0.4
+Compass North America Equity Opportunities,Equity,North America,2007,728.3,7.09,18.95,1.01
+Atlas Asia-Pacific Alternative Strategic,Alternative,Asia-Pacific,2008,781.6,7.44,11.31,1.45
+Summit North America Bond Focus,Bond,North America,2025,4573.0,0.08,4.42,0.57
+Harbor Global Multi-Asset Plus,Multi-Asset,Global,2003,182.7,8.46,8.03,0.86
+Harbor North America Equity Dynamic,Equity,North America,2000,632.4,6.38,18.96,1.06
+Evergreen North America Bond Focus,Bond,North America,2024,881.3,3.09,3.92,0.41
+Harbor Asia-Pacific Bond Dynamic,Bond,Asia-Pacific,1999,311.3,2.37,7.22,0.75
+Juniper Europe Alternative Focus,Alternative,Europe,1995,668.7,4.55,11.88,1.41
+Aurora Europe Bond Plus,Bond,Europe,2008,131.2,5.34,4.71,1.12
+Pioneer North America Bond Select,Bond,North America,2007,2662.1,4.24,5.37,0.52
+Compass Global Equity Plus,Equity,Global,2014,328.8,11.26,13.07,0.86
+Crown Asia-Pacific Equity Strategic,Equity,Asia-Pacific,2022,4956.1,7.96,18.49,1.1
+Oak Emerging Markets Bond Plus,Bond,Emerging Markets,2023,629.2,4.88,6.79,0.76
+Atlas North America Bond Focus 2,Bond,North America,2003,1817.2,2.55,4.14,0.49
+Horizon North America Equity Strategic,Equity,North America,2025,616.3,19.15,14.84,0.87
+Cobalt Europe Multi-Asset Opportunities,Multi-Asset,Europe,2014,630.3,1.58,8.45,0.96
+Cedar Global Money Market Strategic,Money Market,Global,1997,362.5,5.25,1.48,0.08
+Vertex Emerging Markets Equity Core,Equity,Emerging Markets,2024,732.2,14.84,12.11,0.87
+Cobalt Global Bond Opportunities 2,Bond,Global,1999,893.3,1.47,7.73,0.62
+Pioneer Global Equity Focus,Equity,Global,2013,296.7,19.15,15.9,1.15
+Compass North America Bond Opportunities 2,Bond,North America,2019,573.6,6.09,4.75,0.48
+Horizon Emerging Markets Equity Opportunities,Equity,Emerging Markets,2002,353.1,12.86,14.05,0.58
+Beacon North America Bond Strategic,Bond,North America,2003,6481.0,3.67,5.13,0.22
+Evergreen Europe Multi-Asset Select,Multi-Asset,Europe,2009,594.2,4.96,7.71,0.6
+Northstar North America Multi-Asset Strategic,Multi-Asset,North America,2022,3047.9,4.98,10.17,0.59
+Cedar Europe Equity Core,Equity,Europe,2001,534.5,9.95,12.46,0.92
+Atlas Europe Money Market Strategic,Money Market,Europe,2015,842.4,5.6,0.73,0.05
+Juniper Europe Equity Strategic,Equity,Europe,2009,173.4,8.91,14.91,0.81
+Juniper North America Equity Opportunities,Equity,North America,1998,415.7,3.44,10.81,0.8
+Horizon Global Bond Strategic,Bond,Global,2017,802.3,5.66,5.19,0.51
+Delta North America Equity Plus,Equity,North America,2020,3174.7,12.61,13.38,1.21
+Pioneer North America Multi-Asset Strategic,Multi-Asset,North America,2012,811.6,7.14,8.43,0.98
+Vertex Emerging Markets Multi-Asset Opportunities,Multi-Asset,Emerging Markets,2000,2593.3,7.36,13.6,0.85
+Beacon Global Equity Focus,Equity,Global,1999,1233.6,6.65,16.16,0.86
+Northstar Global Alternative Strategic,Alternative,Global,2008,3308.9,3.68,12.53,1.16
+Delta North America Equity Opportunities,Equity,North America,2010,612.7,3.66,10.88,1.02
+Evergreen Asia-Pacific Bond Strategic,Bond,Asia-Pacific,2012,7095.4,-0.49,5.29,0.72
+Aurora Europe Equity Opportunities,Equity,Europe,2002,400.0,9.18,16.62,0.77
+Cobalt North America Alternative Strategic,Alternative,North America,2010,302.0,5.79,9.79,1.26
+Frontier Emerging Markets Equity Core,Equity,Emerging Markets,2004,193.8,5.8,18.62,0.54
+Compass Global Equity Core,Equity,Global,2016,6687.5,-6.78,12.54,0.99
+Frontier Global Bond Plus,Bond,Global,2019,1475.0,0.48,5.69,0.75
+Horizon Global Alternative Plus,Alternative,Global,2015,465.4,8.8,10.73,1.19
+Northstar Global Money Market Plus,Money Market,Global,1995,2266.5,0.44,1.24,0.61
+Crown North America Multi-Asset Plus,Multi-Asset,North America,2025,1292.9,6.4,8.85,0.67
+Cobalt Europe Money Market Focus,Money Market,Europe,1995,4642.9,-1.38,1.14,0.29
+Meridian North America Money Market Opportunities,Money Market,North America,2025,138.3,5.7,1.15,0.24
+Compass Europe Bond Core,Bond,Europe,1995,498.5,3.24,5.21,0.58
+Atlas Asia-Pacific Equity Focus,Equity,Asia-Pacific,2011,409.3,9.45,17.4,0.93
+Vertex North America Multi-Asset Select,Multi-Asset,North America,1998,90.3,11.31,10.43,0.87
+Evergreen Global Bond Plus 2,Bond,Global,1997,1876.8,7.39,5.9,0.77
+Oak Asia-Pacific Equity Core,Equity,Asia-Pacific,2016,496.0,6.47,14.76,1.23
+Harbor Asia-Pacific Equity Select,Equity,Asia-Pacific,2017,1361.9,5.03,18.29,0.95
+Cobalt North America Multi-Asset Select,Multi-Asset,North America,1998,6882.5,4.69,9.58,1.01
+Juniper North America Equity Select,Equity,North America,2025,456.6,10.55,15.12,0.81
+Compass Emerging Markets Alternative Select,Alternative,Emerging Markets,2004,426.6,5.74,12.23,1.4
+Delta Global Equity Dynamic,Equity,Global,2004,731.9,6.02,20.89,0.8
+Delta Asia-Pacific Equity Opportunities,Equity,Asia-Pacific,2004,1744.5,15.34,12.14,1.17
+Harbor Emerging Markets Multi-Asset Dynamic,Multi-Asset,Emerging Markets,2009,368.8,5.21,11.39,1.29
+Atlas Asia-Pacific Equity Plus,Equity,Asia-Pacific,2000,345.9,19.5,10.55,0.93
+Summit Europe Equity Dynamic,Equity,Europe,2008,1870.9,8.45,16.63,0.51
+Horizon Global Bond Dynamic,Bond,Global,2001,949.2,8.06,7.7,0.49
+Evergreen Europe Money Market Opportunities,Money Market,Europe,1996,84.1,2.99,1.31,0.5
+Delta Global Equity Select,Equity,Global,2006,190.9,12.81,16.49,1.06
+Orion Emerging Markets Equity Opportunities,Equity,Emerging Markets,2015,2916.7,4.38,14.39,1.0
+Compass Global Multi-Asset Plus,Multi-Asset,Global,2018,971.6,3.37,10.06,1.05
+Harbor North America Alternative Dynamic,Alternative,North America,2005,303.3,7.15,11.46,1.35
+Cobalt Europe Bond Select,Bond,Europe,2005,548.2,6.07,5.15,0.84
+Northstar Emerging Markets Equity Focus,Equity,Emerging Markets,2019,658.7,8.2,15.17,1.13
+Beacon Europe Equity Strategic,Equity,Europe,2016,1356.6,1.57,16.57,1.25
+Evergreen Europe Equity Dynamic,Equity,Europe,2020,167.1,1.2,13.79,1.02
+Crown Europe Equity Focus,Equity,Europe,2023,280.3,0.86,13.68,1.13
+Oak Europe Bond Plus,Bond,Europe,2020,854.0,-0.82,4.53,0.54
+Cobalt North America Equity Dynamic 2,Equity,North America,2024,588.2,8.55,17.13,0.83
+Summit Global Bond Dynamic,Bond,Global,2007,1151.5,6.41,6.59,0.94
+Beacon North America Bond Select,Bond,North America,2007,190.1,3.57,6.25,0.64
+Cobalt Europe Bond Core,Bond,Europe,2004,929.0,-2.05,7.04,0.76
+Oak Europe Equity Plus,Equity,Europe,2002,1936.3,7.05,16.25,0.97
+Harbor North America Multi-Asset Dynamic,Multi-Asset,North America,2018,1057.6,5.09,10.71,0.73
+Oak Europe Multi-Asset Opportunities,Multi-Asset,Europe,2017,747.0,10.74,10.55,0.85
+Frontier Global Multi-Asset Dynamic,Multi-Asset,Global,2019,590.6,1.86,9.84,1.14
+Crown Europe Equity Core,Equity,Europe,2000,282.1,6.05,14.47,1.06
+Horizon North America Equity Strategic 2,Equity,North America,2010,604.8,16.53,22.38,0.61
+Aurora North America Money Market Select,Money Market,North America,2001,2290.9,3.22,1.1,0.21
+Compass North America Equity Strategic,Equity,North America,2022,577.1,10.82,14.08,1.31
+Harbor Europe Equity Focus,Equity,Europe,2003,267.0,8.57,17.25,0.91
+Juniper Europe Bond Select,Bond,Europe,1999,397.3,4.42,6.27,0.24
+Northstar Asia-Pacific Bond Core,Bond,Asia-Pacific,2012,794.6,5.54,4.48,0.98
+Beacon Europe Alternative Strategic,Alternative,Europe,2022,447.4,3.98,14.42,1.39
+Meridian Global Equity Select,Equity,Global,2023,1056.0,12.39,15.73,0.94
+Evergreen North America Money Market Core,Money Market,North America,1997,1096.4,-1.33,0.96,0.18
+Meridian North America Equity Strategic,Equity,North America,2005,1581.2,9.64,19.42,1.17
+Compass North America Bond Opportunities 3,Bond,North America,1999,2698.7,4.05,6.68,0.49
+Cobalt Asia-Pacific Bond Opportunities,Bond,Asia-Pacific,2004,1759.6,2.06,4.63,0.83
+Compass Asia-Pacific Equity Select,Equity,Asia-Pacific,2011,255.4,7.89,21.12,1.06
+Evergreen Europe Equity Plus,Equity,Europe,2003,263.3,4.89,17.9,1.0
+Oak North America Equity Opportunities,Equity,North America,1997,602.6,2.64,15.97,0.98
+Summit Europe Alternative Select,Alternative,Europe,2010,414.0,5.12,15.43,1.22
+Summit North America Bond Opportunities,Bond,North America,1996,208.2,0.84,6.17,0.81
+Harbor Global Alternative Select,Alternative,Global,2002,417.9,6.81,11.94,1.08
+Oak Europe Multi-Asset Opportunities 2,Multi-Asset,Europe,1995,404.4,2.62,8.81,0.53
+Pioneer North America Bond Core,Bond,North America,1997,332.0,5.38,6.63,0.72
+Harbor Emerging Markets Multi-Asset Select,Multi-Asset,Emerging Markets,2008,474.0,2.55,10.86,0.98
+Pioneer Europe Equity Opportunities,Equity,Europe,2021,2112.1,5.17,16.04,1.05
+Meridian North America Equity Plus,Equity,North America,2019,793.3,4.88,13.72,1.03
+Harbor Global Multi-Asset Core,Multi-Asset,Global,1998,7698.5,8.81,10.23,0.79
+Cobalt Europe Multi-Asset Select,Multi-Asset,Europe,1996,770.8,6.33,9.87,1.01
+Summit Europe Equity Plus,Equity,Europe,2005,486.3,6.94,12.16,0.94
+Frontier Europe Bond Plus,Bond,Europe,2015,652.7,4.85,4.41,0.5
+Cobalt Emerging Markets Bond Dynamic,Bond,Emerging Markets,2018,840.1,-1.67,6.61,0.54
+Delta Europe Money Market Select,Money Market,Europe,2020,1004.5,1.99,0.64,0.65
+Compass Europe Bond Opportunities,Bond,Europe,2005,5185.8,8.59,6.22,0.25
+Crown Europe Equity Select,Equity,Europe,2000,279.1,8.66,14.62,1.05
+Crown Europe Equity Core 2,Equity,Europe,1995,1534.6,8.34,19.77,0.61
+Vertex Global Bond Opportunities,Bond,Global,1999,800.1,4.97,5.47,0.58
+Beacon Europe Bond Dynamic,Bond,Europe,1997,135.1,5.84,6.71,0.51
+Pioneer Global Money Market Opportunities,Money Market,Global,2021,1404.8,-2.89,1.11,0.05
+Orion Global Bond Dynamic,Bond,Global,2003,2309.1,-0.61,6.12,0.68
+Northstar Asia-Pacific Equity Opportunities,Equity,Asia-Pacific,2020,275.8,9.05,18.12,0.87
+Atlas Europe Equity Opportunities,Equity,Europe,2012,644.2,4.43,14.67,0.53
+Summit Asia-Pacific Multi-Asset Strategic,Multi-Asset,Asia-Pacific,2011,115.8,8.78,11.79,1.02
+Oak Global Multi-Asset Plus,Multi-Asset,Global,2009,184.6,4.71,8.21,1.14
+Delta Europe Equity Opportunities,Equity,Europe,2020,1853.8,-1.67,16.85,1.25
+Summit Global Equity Dynamic,Equity,Global,1996,407.7,1.66,18.66,1.02
+Compass Asia-Pacific Bond Select,Bond,Asia-Pacific,1997,214.5,-3.27,6.71,0.61
+Pioneer Europe Equity Core,Equity,Europe,2008,817.6,6.83,21.52,1.22
+Aurora Emerging Markets Multi-Asset Strategic,Multi-Asset,Emerging Markets,2007,385.5,5.03,8.63,1.19
+Atlas North America Equity Select,Equity,North America,2011,405.9,5.88,12.03,1.18
+Vertex Global Equity Opportunities,Equity,Global,2017,1361.4,13.39,13.14,0.76
+Northstar Emerging Markets Money Market Focus,Money Market,Emerging Markets,2013,203.4,5.1,1.34,0.29
+Aurora North America Equity Select,Equity,North America,2002,262.9,7.15,17.43,1.04
+Oak Asia-Pacific Equity Core 2,Equity,Asia-Pacific,2005,758.3,-2.67,16.29,0.59
+Horizon North America Equity Opportunities,Equity,North America,2018,1713.7,11.09,12.77,1.04
+Delta Asia-Pacific Equity Plus,Equity,Asia-Pacific,2001,2242.0,10.78,18.21,1.4
+Juniper Global Equity Dynamic,Equity,Global,2010,334.3,9.55,12.47,1.08
+Delta Europe Equity Opportunities 2,Equity,Europe,2011,1659.6,12.91,19.34,1.24
+Meridian North America Equity Core,Equity,North America,2018,296.7,2.18,24.23,0.99
+Cobalt North America Equity Dynamic 3,Equity,North America,2017,4036.7,18.04,17.06,0.94
+Juniper Europe Bond Core,Bond,Europe,2009,209.2,1.2,6.63,0.68
+Oak Europe Bond Focus,Bond,Europe,2004,2453.9,5.47,5.47,0.44
+Cobalt North America Equity Strategic 2,Equity,North America,2006,337.1,-0.44,10.79,0.76
+Vertex Europe Equity Opportunities 2,Equity,Europe,2007,4866.9,3.35,14.26,1.2
+Compass Europe Bond Opportunities 2,Bond,Europe,2001,1174.1,7.39,4.82,0.87
+Horizon Global Money Market Core,Money Market,Global,2014,235.3,1.45,0.89,0.05
+Frontier Global Money Market Core,Money Market,Global,2001,385.6,4.2,1.57,0.44
+Atlas Global Equity Focus,Equity,Global,2015,1419.6,9.18,16.79,0.93
+Northstar North America Equity Plus,Equity,North America,2018,1862.4,7.48,17.09,1.02
+Aurora Asia-Pacific Equity Select,Equity,Asia-Pacific,2024,605.6,14.82,15.11,1.04
+Evergreen Global Equity Dynamic,Equity,Global,1998,679.7,6.82,15.5,1.15
+Vertex Europe Bond Dynamic,Bond,Europe,2018,1387.6,-0.85,7.04,0.62
+Harbor Europe Equity Core,Equity,Europe,1997,741.6,3.98,15.91,1.23
+Aurora Global Equity Select,Equity,Global,2005,178.3,10.76,17.53,1.01
+Meridian Europe Equity Opportunities,Equity,Europe,2000,288.3,9.98,15.44,1.07
+Cobalt Global Bond Dynamic,Bond,Global,2000,822.3,-0.32,5.63,0.43
+Orion Emerging Markets Equity Focus,Equity,Emerging Markets,2000,2191.7,4.38,11.95,1.38
+Pioneer Europe Multi-Asset Strategic,Multi-Asset,Europe,1996,3271.3,4.05,6.44,0.94
+Northstar Europe Equity Plus,Equity,Europe,2020,1417.3,6.17,15.25,1.09
+Cedar Emerging Markets Money Market Strategic,Money Market,Emerging Markets,1996,866.3,-1.34,1.21,0.05
+Vertex Global Equity Plus 2,Equity,Global,2007,1374.4,4.86,12.3,0.79
+Horizon Europe Money Market Strategic,Money Market,Europe,2016,333.7,0.28,1.19,0.5
+Pioneer Asia-Pacific Money Market Strategic,Money Market,Asia-Pacific,2025,557.7,4.03,1.21,0.31
+Pioneer Asia-Pacific Alternative Strategic,Alternative,Asia-Pacific,2021,285.1,8.02,7.34,0.87
+Delta Global Multi-Asset Strategic,Multi-Asset,Global,1999,186.5,5.14,8.35,1.06
+Evergreen Global Multi-Asset Strategic,Multi-Asset,Global,2025,907.3,4.52,10.73,0.74
+Orion North America Bond Plus,Bond,North America,2015,782.5,3.95,6.42,0.88
+Horizon Europe Multi-Asset Focus,Multi-Asset,Europe,2000,1292.9,3.46,7.92,0.83
+Cedar Global Equity Dynamic,Equity,Global,2008,1122.2,2.27,16.46,0.99
+Horizon North America Bond Focus,Bond,North America,2023,828.5,1.25,7.1,0.84
+Meridian Global Bond Strategic,Bond,Global,2007,1134.1,2.01,6.84,0.42
+Beacon Asia-Pacific Money Market Focus,Money Market,Asia-Pacific,2000,622.8,-0.81,1.18,0.05
+Northstar Europe Bond Strategic,Bond,Europe,2022,982.3,4.01,5.49,0.56
+Oak Global Equity Strategic,Equity,Global,2024,314.5,11.65,14.19,1.12
+Pioneer Europe Bond Plus,Bond,Europe,2025,940.8,-0.37,6.51,0.33
+Juniper Asia-Pacific Equity Select,Equity,Asia-Pacific,2024,1268.2,8.13,16.56,0.62
+Horizon Europe Equity Dynamic,Equity,Europe,2022,332.7,6.9,17.81,1.11
+Beacon Global Bond Strategic,Bond,Global,2009,684.6,4.45,6.14,0.48
+Harbor Global Equity Plus,Equity,Global,2000,348.4,7.94,18.36,0.87
+Cobalt North America Equity Plus 2,Equity,North America,2014,383.9,0.73,16.27,0.58
+Evergreen Global Equity Dynamic 2,Equity,Global,2001,211.0,1.69,18.26,0.81
+Meridian Global Equity Dynamic,Equity,Global,2009,2304.8,8.15,18.51,0.95
+Summit Global Equity Select 2,Equity,Global,2015,1886.8,13.14,13.68,1.14
+Northstar Global Equity Plus,Equity,Global,2024,1112.5,-3.07,10.79,0.8
+Cobalt Emerging Markets Bond Select,Bond,Emerging Markets,2003,4671.2,4.46,7.67,0.93
+Frontier North America Equity Strategic,Equity,North America,2002,537.9,13.95,16.74,0.81
+Vertex Global Alternative Strategic,Alternative,Global,2017,12000.0,5.62,8.3,1.11
+Oak Europe Money Market Focus,Money Market,Europe,1995,517.7,3.48,1.05,0.56
+Juniper Asia-Pacific Bond Select,Bond,Asia-Pacific,2012,839.0,1.84,6.83,0.64
+Frontier Global Equity Select 2,Equity,Global,2018,436.7,7.4,15.19,0.84
+Atlas North America Bond Strategic,Bond,North America,2012,943.2,-0.45,5.45,0.57
+Orion Europe Money Market Focus,Money Market,Europe,2006,1499.1,-3.76,1.5,0.52
+Atlas Asia-Pacific Bond Core,Bond,Asia-Pacific,2020,580.0,5.96,4.87,0.89
+Beacon North America Multi-Asset Strategic,Multi-Asset,North America,2006,3841.8,3.04,8.56,0.69
+Cobalt Global Bond Select,Bond,Global,2017,825.6,2.46,6.23,0.59
+Pioneer Europe Bond Plus 2,Bond,Europe,2009,851.9,0.13,6.42,0.62
+Oak Emerging Markets Equity Opportunities,Equity,Emerging Markets,1995,261.9,0.95,17.43,0.75
+Horizon Europe Multi-Asset Select,Multi-Asset,Europe,2011,987.8,5.07,11.64,0.84
+Pioneer Europe Equity Core 2,Equity,Europe,1996,568.5,4.35,16.57,0.95
+Northstar Asia-Pacific Bond Focus,Bond,Asia-Pacific,2023,353.8,4.54,6.53,0.83
+Oak Emerging Markets Money Market Focus,Money Market,Emerging Markets,2013,299.0,3.23,1.14,0.49
+Cedar Europe Equity Strategic,Equity,Europe,2006,9402.5,9.6,16.18,0.88
+Juniper North America Bond Focus,Bond,North America,2010,499.4,4.2,6.12,0.56
+Delta Global Equity Opportunities,Equity,Global,2014,151.4,15.89,16.62,1.08
+Frontier Asia-Pacific Multi-Asset Select,Multi-Asset,Asia-Pacific,2003,323.4,2.83,11.39,0.73
+Compass North America Equity Select,Equity,North America,2003,617.3,7.73,17.6,1.07
+Atlas Global Alternative Plus,Alternative,Global,2007,1122.9,8.83,12.1,1.23
+Cobalt Global Equity Select,Equity,Global,2003,1132.0,14.32,13.67,0.76
+Cedar Global Alternative Plus,Alternative,Global,2018,1278.7,2.45,12.15,1.06
+Frontier Asia-Pacific Multi-Asset Opportunities 2,Multi-Asset,Asia-Pacific,1998,341.1,4.72,9.95,1.14
+Evergreen Global Bond Core,Bond,Global,2020,913.6,7.0,6.21,0.57
+Crown Europe Multi-Asset Select,Multi-Asset,Europe,2005,270.7,6.77,13.97,1.18
+Orion Emerging Markets Multi-Asset Core,Multi-Asset,Emerging Markets,2012,349.8,5.99,9.06,0.75
+Evergreen Asia-Pacific Alternative Strategic,Alternative,Asia-Pacific,1999,259.6,5.46,12.91,1.31
+Orion Asia-Pacific Equity Focus 2,Equity,Asia-Pacific,2006,198.1,6.08,19.08,1.43
+Cobalt Europe Bond Opportunities,Bond,Europe,2018,1884.1,4.32,6.11,0.39
+Cobalt Europe Equity Dynamic,Equity,Europe,2003,1294.1,6.74,22.73,0.57
+Compass Global Bond Dynamic 2,Bond,Global,1999,1726.1,3.49,5.59,0.86
+Meridian Europe Equity Plus,Equity,Europe,2011,676.1,8.39,16.93,0.78
+Delta Emerging Markets Bond Plus,Bond,Emerging Markets,2000,1413.4,1.9,5.14,0.6
+Evergreen North America Bond Dynamic,Bond,North America,2004,111.7,4.93,5.62,0.48
+Meridian Global Bond Strategic 2,Bond,Global,2008,1540.8,10.89,6.27,0.65
+Frontier Asia-Pacific Bond Strategic,Bond,Asia-Pacific,2012,776.0,-0.84,6.91,0.41
+Delta North America Multi-Asset Focus,Multi-Asset,North America,2014,1216.9,6.31,10.57,0.81
+Frontier North America Multi-Asset Dynamic,Multi-Asset,North America,2015,950.5,3.6,12.27,0.94
+Juniper Global Bond Core,Bond,Global,2021,242.2,5.04,5.9,0.4
+Orion Global Bond Strategic 2,Bond,Global,1997,145.3,3.72,5.64,0.46
+Beacon North America Alternative Plus,Alternative,North America,2006,318.9,7.9,17.84,1.18
+Meridian Global Equity Core,Equity,Global,1995,1143.5,13.88,17.14,0.66
+Frontier Emerging Markets Equity Strategic,Equity,Emerging Markets,1995,1296.0,8.96,13.93,0.87
+Compass North America Equity Plus,Equity,North America,2001,165.5,13.66,14.0,0.97
+Evergreen Europe Bond Select 2,Bond,Europe,2013,243.7,-2.26,4.98,0.52
+Delta North America Equity Focus,Equity,North America,2022,315.4,15.95,18.7,0.9
+Meridian North America Multi-Asset Plus,Multi-Asset,North America,2018,454.7,6.44,9.34,0.85
+Cedar Europe Bond Plus,Bond,Europe,2015,166.5,6.29,6.14,0.47
+Harbor Europe Equity Core 2,Equity,Europe,2019,156.8,1.9,15.82,1.09
+Summit Global Money Market Opportunities,Money Market,Global,2000,285.8,0.02,1.36,0.54
+Juniper North America Multi-Asset Dynamic,Multi-Asset,North America,2021,708.6,5.86,8.48,0.76
+Atlas Emerging Markets Equity Select,Equity,Emerging Markets,2022,199.6,7.91,12.9,1.05
+Meridian Europe Equity Opportunities 2,Equity,Europe,1997,578.9,9.42,16.65,0.9
+Atlas Europe Equity Core,Equity,Europe,2009,1873.4,13.42,17.73,1.02
+Orion Global Equity Select,Equity,Global,2020,176.8,-0.83,16.96,1.26
+Beacon Asia-Pacific Equity Focus,Equity,Asia-Pacific,2009,528.8,12.87,13.67,1.05
+Beacon North America Alternative Dynamic,Alternative,North America,2021,1811.2,6.02,13.46,0.9
+Harbor Europe Bond Dynamic,Bond,Europe,2024,427.8,3.09,5.2,0.69
+Frontier Europe Equity Strategic,Equity,Europe,2009,366.2,0.64,14.5,1.2
+Juniper Global Multi-Asset Opportunities,Multi-Asset,Global,1996,2080.7,6.76,8.3,0.81
+Atlas North America Bond Select,Bond,North America,2005,478.6,-2.44,7.41,0.8
+Beacon Europe Alternative Core,Alternative,Europe,2001,1961.5,7.62,13.37,1.11
+Compass Europe Multi-Asset Select,Multi-Asset,Europe,2009,998.2,1.77,11.09,0.55
+Aurora North America Bond Opportunities,Bond,North America,2013,461.3,3.73,7.35,0.63
+Harbor Emerging Markets Equity Select,Equity,Emerging Markets,2009,1050.1,7.4,24.1,0.6
+Compass Global Alternative Core,Alternative,Global,2001,895.5,8.92,8.31,1.2
+Aurora North America Multi-Asset Select,Multi-Asset,North America,2004,1804.2,5.05,8.67,1.11
+Frontier Europe Alternative Dynamic,Alternative,Europe,2016,375.6,4.26,10.67,0.87
+Oak Europe Equity Dynamic,Equity,Europe,1995,677.3,5.47,13.55,0.69
+Juniper North America Money Market Plus,Money Market,North America,2001,611.2,5.28,0.97,0.05
+Compass Global Bond Strategic,Bond,Global,2022,1314.4,4.94,5.68,0.59
+Summit Asia-Pacific Equity Focus,Equity,Asia-Pacific,1998,233.2,6.07,12.5,0.88
+Orion Emerging Markets Bond Core,Bond,Emerging Markets,2007,1797.1,3.01,6.36,0.88
+Pioneer Emerging Markets Bond Focus,Bond,Emerging Markets,2001,1036.2,-0.32,6.06,0.79
+Cobalt Emerging Markets Equity Core,Equity,Emerging Markets,1998,174.2,9.94,17.39,1.05
+Northstar Emerging Markets Bond Focus,Bond,Emerging Markets,2008,2176.0,-0.8,6.55,0.63
+Crown Europe Multi-Asset Opportunities,Multi-Asset,Europe,2011,6069.7,7.38,11.09,0.93
+Vertex Europe Equity Opportunities 3,Equity,Europe,2000,1770.1,8.64,14.92,0.78
+Aurora North America Bond Select,Bond,North America,1997,2708.0,9.57,8.29,0.77
+Beacon Global Bond Dynamic,Bond,Global,1999,707.9,0.85,6.25,0.38
+Orion Europe Equity Strategic,Equity,Europe,2015,123.4,7.49,10.64,1.12
+Juniper Asia-Pacific Money Market Strategic,Money Market,Asia-Pacific,2021,102.8,6.6,0.98,0.49
+Evergreen Global Multi-Asset Dynamic,Multi-Asset,Global,2000,838.9,8.48,6.87,0.89
+Beacon Global Equity Focus 2,Equity,Global,2004,359.6,4.52,16.05,0.91
+Horizon Europe Alternative Core,Alternative,Europe,2005,260.4,6.56,11.74,1.33
+Harbor Europe Money Market Strategic,Money Market,Europe,2006,610.5,2.1,1.1,0.05
+Delta Europe Equity Focus,Equity,Europe,2002,1203.0,9.41,21.79,1.01
+Compass Asia-Pacific Multi-Asset Select,Multi-Asset,Asia-Pacific,1996,152.1,3.75,10.99,0.83
+Beacon Global Equity Opportunities,Equity,Global,2011,414.9,7.55,18.09,0.94
+Orion Global Alternative Plus,Alternative,Global,2006,2942.0,2.0,9.99,1.39
+Juniper North America Bond Dynamic 2,Bond,North America,2005,221.8,3.94,4.92,0.59
+Juniper North America Bond Focus 2,Bond,North America,2003,1551.1,4.73,6.04,0.37
+Evergreen North America Equity Dynamic,Equity,North America,2023,400.3,6.86,16.5,0.92
+Oak Global Money Market Opportunities,Money Market,Global,2013,1121.9,-1.94,0.8,0.26
+Horizon Global Equity Focus,Equity,Global,2007,1947.5,12.94,15.48,0.97
+Compass Europe Equity Opportunities 2,Equity,Europe,2001,1364.1,9.82,16.04,0.98
+Aurora Emerging Markets Equity Focus,Equity,Emerging Markets,2019,1613.5,4.37,15.38,1.16
+Northstar Europe Multi-Asset Dynamic,Multi-Asset,Europe,2022,205.5,4.8,8.54,0.63
+Vertex Asia-Pacific Equity Core,Equity,Asia-Pacific,1996,1979.6,0.5,14.45,0.99
+Oak Europe Money Market Strategic,Money Market,Europe,2023,277.1,-0.46,1.16,0.51
+Evergreen Europe Bond Select 3,Bond,Europe,2016,842.6,2.26,6.1,0.25
+Delta Asia-Pacific Equity Dynamic,Equity,Asia-Pacific,1998,841.5,14.14,17.74,0.99
+Pioneer Europe Equity Dynamic,Equity,Europe,2018,1055.8,4.8,19.11,0.83
+Harbor North America Equity Dynamic 2,Equity,North America,1998,910.4,11.2,15.15,0.88
+Aurora North America Bond Dynamic,Bond,North America,1996,279.5,2.25,5.51,0.42
+Atlas Europe Multi-Asset Plus,Multi-Asset,Europe,1998,168.5,6.12,10.79,0.82
+Pioneer Global Equity Focus 2,Equity,Global,2009,1555.1,7.29,17.76,1.32
+Delta Asia-Pacific Money Market Strategic 2,Money Market,Asia-Pacific,2014,782.7,4.28,1.11,0.05
+Juniper Asia-Pacific Equity Dynamic,Equity,Asia-Pacific,2007,2051.5,5.33,18.28,0.72
+Harbor North America Multi-Asset Select,Multi-Asset,North America,1998,621.6,1.57,11.76,0.59
+Aurora Global Money Market Select,Money Market,Global,2001,159.5,-1.35,1.48,0.6
+Harbor Europe Multi-Asset Opportunities,Multi-Asset,Europe,2021,1708.0,4.17,13.2,0.76
+Harbor Europe Bond Select,Bond,Europe,2024,448.8,0.48,5.06,0.59
+Summit Europe Multi-Asset Opportunities,Multi-Asset,Europe,2018,915.0,6.53,10.03,0.77
+Orion Emerging Markets Equity Opportunities 2,Equity,Emerging Markets,1998,340.2,5.67,16.03,0.76
+Evergreen Asia-Pacific Equity Dynamic,Equity,Asia-Pacific,2020,3365.3,19.87,15.72,0.9
+Compass Global Equity Select,Equity,Global,2016,270.5,-0.69,14.13,1.44
+Delta Global Bond Strategic,Bond,Global,2011,463.8,4.11,4.4,0.88
+Beacon North America Multi-Asset Focus,Multi-Asset,North America,1999,723.7,2.68,10.17,0.68
+Meridian Global Bond Dynamic,Bond,Global,2025,218.1,2.37,5.17,0.73
+Evergreen Global Money Market Core,Money Market,Global,2008,904.6,2.45,1.22,0.08
+Atlas North America Equity Focus,Equity,North America,1996,3258.0,-3.63,13.71,0.59
+Orion Europe Multi-Asset Core,Multi-Asset,Europe,2001,398.0,6.09,8.02,1.05
+Pioneer Europe Equity Dynamic 2,Equity,Europe,2007,965.0,17.51,16.67,1.18
+Atlas Emerging Markets Equity Opportunities,Equity,Emerging Markets,1996,41.6,5.73,16.43,1.16
+Cobalt North America Multi-Asset Plus,Multi-Asset,North America,2005,625.2,6.15,11.04,0.76
+Horizon Emerging Markets Alternative Opportunities,Alternative,Emerging Markets,2009,475.3,8.56,16.72,1.22
+Compass Europe Bond Focus,Bond,Europe,2024,286.7,3.19,6.3,0.75
+Atlas Global Equity Select,Equity,Global,1997,1916.8,5.1,17.4,1.03
+Cedar Europe Bond Dynamic,Bond,Europe,2012,469.1,-2.09,4.84,0.52
+Meridian Europe Equity Focus 2,Equity,Europe,2023,544.3,11.2,12.29,0.63
+Beacon Europe Money Market Opportunities,Money Market,Europe,2019,445.8,1.82,1.54,0.27
+Orion Europe Multi-Asset Select,Multi-Asset,Europe,2023,95.6,2.97,8.34,1.07
+Cedar Emerging Markets Equity Core,Equity,Emerging Markets,2000,209.6,8.63,12.99,0.71
+Orion North America Equity Core,Equity,North America,2019,1699.5,5.08,15.89,1.08
+Horizon Global Equity Plus,Equity,Global,2025,78.8,5.36,15.74,1.02
+Juniper North America Alternative Opportunities,Alternative,North America,2005,302.1,7.52,10.05,1.4
+Cobalt North America Bond Core,Bond,North America,2010,435.8,0.25,5.67,0.77
+Cedar Global Multi-Asset Plus,Multi-Asset,Global,2011,3716.7,8.12,12.21,0.71
+Beacon Europe Bond Core,Bond,Europe,2010,1401.9,0.11,5.13,0.28
+Orion Emerging Markets Bond Opportunities,Bond,Emerging Markets,2003,372.3,1.94,4.49,0.49
+Delta Asia-Pacific Equity Strategic,Equity,Asia-Pacific,2025,2395.8,17.61,18.71,1.13
+Harbor Global Alternative Plus,Alternative,Global,2024,310.0,8.82,13.06,1.14
+Frontier North America Equity Dynamic,Equity,North America,2006,1783.0,8.49,14.21,0.81
+Pioneer Europe Bond Focus,Bond,Europe,2019,167.0,1.25,4.29,0.24
+Compass Emerging Markets Bond Plus,Bond,Emerging Markets,2007,1901.2,2.28,5.2,0.95
+Cobalt North America Bond Core 2,Bond,North America,2019,433.0,3.78,5.94,0.77
+Horizon Europe Alternative Plus,Alternative,Europe,2013,232.4,6.09,14.52,1.4
+Aurora North America Equity Strategic,Equity,North America,2009,523.1,7.55,13.01,1.14
+Orion Asia-Pacific Bond Plus,Bond,Asia-Pacific,1998,857.8,3.52,5.91,0.72
+Evergreen Global Equity Select 2,Equity,Global,2015,396.3,6.93,17.94,0.9
+Harbor Global Bond Core,Bond,Global,2004,1131.1,-0.0,3.43,0.57
+Orion Asia-Pacific Equity Dynamic,Equity,Asia-Pacific,2001,362.8,5.42,18.98,0.86
+Frontier Europe Equity Focus,Equity,Europe,2000,1208.8,12.57,12.59,1.48
+Northstar Emerging Markets Equity Focus 2,Equity,Emerging Markets,2025,1011.5,1.16,16.96,1.06
+Orion North America Equity Plus,Equity,North America,1998,611.6,7.05,16.71,0.86
+Summit Global Bond Dynamic 2,Bond,Global,2019,418.0,1.55,7.17,0.69
+Northstar Europe Bond Opportunities,Bond,Europe,2021,756.4,3.88,6.59,0.4
+Atlas Emerging Markets Bond Opportunities,Bond,Emerging Markets,1995,1126.9,2.63,3.43,0.9
+Pioneer North America Equity Core,Equity,North America,2013,5109.1,15.39,13.74,0.82
+Harbor Europe Equity Select,Equity,Europe,2012,1663.0,10.53,16.4,1.05
+Evergreen North America Equity Select,Equity,North America,2006,1725.0,1.44,15.44,1.16
+Northstar Europe Bond Strategic 2,Bond,Europe,2015,12000.0,5.28,6.52,0.68
+Oak Europe Equity Dynamic 2,Equity,Europe,2007,1088.9,4.13,18.27,0.97
+Cobalt Global Equity Focus,Equity,Global,2008,1055.3,5.12,17.75,0.95
+Beacon North America Equity Opportunities,Equity,North America,2008,1314.2,9.57,15.38,0.94
+Harbor Emerging Markets Bond Dynamic,Bond,Emerging Markets,2019,237.0,2.37,4.01,0.48
+Aurora North America Equity Strategic 2,Equity,North America,2014,417.0,12.46,14.69,0.86
+Frontier Global Bond Plus 2,Bond,Global,2006,391.8,1.66,6.45,0.9
+Harbor North America Bond Focus 2,Bond,North America,2023,1242.1,2.05,4.82,0.58
+Meridian Global Multi-Asset Strategic,Multi-Asset,Global,2019,546.1,3.86,11.14,0.69
+Cedar Global Bond Focus 2,Bond,Global,2023,746.4,2.19,6.98,0.5
+Atlas North America Bond Focus 3,Bond,North America,2017,1928.4,6.35,6.14,0.82
+Orion Emerging Markets Equity Plus,Equity,Emerging Markets,2007,1540.9,11.14,7.18,1.09
+Compass North America Multi-Asset Opportunities,Multi-Asset,North America,2018,552.9,9.77,7.7,0.96
+Horizon Europe Bond Opportunities,Bond,Europe,2005,332.6,9.27,8.04,0.55
+Cedar Global Bond Opportunities,Bond,Global,2003,2022.8,1.02,5.41,0.71
+Evergreen Asia-Pacific Bond Focus,Bond,Asia-Pacific,2008,1409.3,3.78,3.86,0.47
+Summit Europe Equity Focus,Equity,Europe,2025,130.4,2.12,19.56,0.9
+Delta North America Bond Dynamic,Bond,North America,2012,475.2,1.66,6.01,0.79
+Oak Asia-Pacific Multi-Asset Focus,Multi-Asset,Asia-Pacific,2006,767.0,3.92,11.99,1.02
+Frontier Global Money Market Select,Money Market,Global,2009,1416.3,-0.54,1.26,0.05
+Pioneer Emerging Markets Money Market Plus,Money Market,Emerging Markets,2004,1615.0,-0.53,1.3,0.08
+Cedar Global Bond Opportunities 2,Bond,Global,2015,863.4,3.24,6.39,0.62
+Compass Global Bond Plus,Bond,Global,2005,1167.0,0.56,6.75,0.95
+Aurora North America Multi-Asset Select 2,Multi-Asset,North America,2012,693.1,7.61,14.1,0.47
+Crown Emerging Markets Equity Focus,Equity,Emerging Markets,2006,331.3,3.41,18.8,1.01
+Cobalt North America Multi-Asset Focus,Multi-Asset,North America,2004,500.6,12.52,7.16,0.57
+Northstar Global Bond Strategic,Bond,Global,2025,662.5,2.47,6.48,0.47
+Aurora North America Equity Core,Equity,North America,2005,627.8,8.36,19.29,0.88
+Aurora Global Equity Plus,Equity,Global,1997,98.6,1.52,19.46,0.87
+Meridian Global Money Market Focus,Money Market,Global,2006,436.8,6.37,1.11,0.14
+Oak Global Equity Dynamic,Equity,Global,2011,687.6,13.6,19.36,0.95
+Cobalt Emerging Markets Equity Focus,Equity,Emerging Markets,1997,490.6,9.48,18.67,0.84
+Northstar North America Equity Core,Equity,North America,2004,507.8,1.27,23.41,0.66
+Juniper Global Equity Focus,Equity,Global,2000,1058.9,9.05,13.84,1.11
+Aurora North America Equity Select 2,Equity,North America,2010,221.0,2.39,14.54,1.1
+Evergreen North America Multi-Asset Opportunities,Multi-Asset,North America,2017,127.6,9.16,9.45,1.02
+Compass North America Equity Dynamic 2,Equity,North America,2025,458.9,12.05,14.59,0.64
+Evergreen Europe Multi-Asset Focus,Multi-Asset,Europe,2007,1395.6,5.74,8.4,0.91
