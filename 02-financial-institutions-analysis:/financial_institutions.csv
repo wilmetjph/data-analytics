@@ -1,0 +1,321 @@
+institution_name,country,region,institution_type,assets_bn_eur,aum_bn_eur,revenue_bn_eur,net_profit_bn_eur,roe_pct,cost_income_ratio_pct,capital_ratio_pct,employees
+Orion Insurance,Switzerland,Central Europe,Insurer,28.6,5.74,0.88,0.14,11.4,48.8,11.7,375
+Solstice Banking Group,Netherlands,Western Europe,Universal Bank,232.64,115.51,8.49,0.72,6.8,66.2,15.6,11156
+Harbor Banking Group,Austria,Central Europe,Universal Bank,141.7,66.31,5.42,0.86,9.7,55.8,18.6,2168
+Arcadia Banking Group,Sweden,Northern Europe,Universal Bank,57.7,24.96,1.69,0.44,12.4,63.7,8.9,1175
+Lumen Insurance,France,Western Europe,Insurer,504.59,63.81,31.63,5.94,12.1,48.6,16.5,6139
+Solstice Private Bank,Denmark,Northern Europe,Private Bank,69.22,176.63,4.61,1.07,11.5,60.1,20.3,2155
+Rivermark Asset Management,Switzerland,Central Europe,Asset Manager,113.72,388.16,3.63,0.71,13.9,49.8,16.2,2999
+Crown Banking Group,Switzerland,Central Europe,Universal Bank,145.82,22.92,9.66,1.73,11.2,59.0,17.2,2790
+Oakmont Private Bank,France,Western Europe,Private Bank,57.36,188.81,1.27,0.25,14.1,45.5,14.6,1800
+Vela Banking Group,Netherlands,Western Europe,Universal Bank,180.31,56.97,11.71,1.66,10.7,54.0,15.1,5283
+Nova Asset Management,Netherlands,Western Europe,Asset Manager,62.79,169.66,4.14,0.65,10.5,53.8,11.8,2826
+Sterling Bank,Denmark,Northern Europe,Retail Bank,71.36,7.97,1.39,0.22,10.4,49.0,8.5,3597
+Rivermark 2 Asset Management,Italy,Southern Europe,Asset Manager,459.79,1030.0,20.3,1.02,3.6,70.7,19.5,18419
+Sterling Insurance,Switzerland,Central Europe,Insurer,36.87,3.87,2.49,0.36,10.8,58.7,12.5,639
+Europa Bank,Netherlands,Western Europe,Retail Bank,8.73,1.22,0.39,0.03,1.2,74.2,14.1,215
+Europa Private Bank,France,Western Europe,Private Bank,596.74,727.11,34.48,4.65,6.2,72.5,12.5,30596
+Oakmont Bank,Spain,Southern Europe,Retail Bank,1598.46,918.73,74.14,12.33,10.7,64.5,11.3,25280
+Meridian Asset Management,Belgium,Western Europe,Asset Manager,71.84,223.2,1.75,0.43,12.8,48.3,16.2,2118
+Crown Bank,Switzerland,Central Europe,Retail Bank,14.39,3.53,0.76,0.06,6.4,64.1,13.3,755
+Veritas Insurance,Italy,Southern Europe,Insurer,79.36,18.03,3.58,0.42,7.9,54.6,16.6,4196
+Sterling 2 Bank,Sweden,Northern Europe,Retail Bank,81.41,44.29,4.35,0.96,13.2,50.4,16.9,2416
+Veritas 2 Insurance,Germany,Central Europe,Insurer,90.07,32.39,3.33,0.55,8.5,53.8,16.5,3665
+Nova 2 Asset Management,Denmark,Northern Europe,Asset Manager,34.16,42.18,1.97,0.61,17.6,54.4,17.4,1080
+Arcadia Private Bank,Austria,Central Europe,Private Bank,202.05,529.42,5.42,0.85,10.9,56.6,21.4,8970
+Atlas Asset Management,Switzerland,Central Europe,Asset Manager,190.71,183.45,11.27,2.72,12.6,49.7,13.5,2547
+Orion Asset Management,France,Western Europe,Asset Manager,22.89,54.77,0.61,0.2,15.9,54.2,16.5,416
+Oakmont Insurance,Spain,Southern Europe,Insurer,229.1,54.99,12.44,1.66,10.2,40.1,18.9,8799
+Lumen Banking Group,Belgium,Western Europe,Universal Bank,948.92,465.96,51.64,5.18,7.2,46.0,19.3,20875
+Atlas Private Bank,France,Western Europe,Private Bank,131.7,235.22,5.58,1.14,10.6,60.1,12.4,5352
+Vela Bank,Italy,Southern Europe,Retail Bank,77.15,23.91,3.28,0.56,9.4,56.9,14.6,2091
+Northbridge Private Bank,Sweden,Northern Europe,Private Bank,94.72,227.76,2.91,0.27,7.2,61.8,20.8,4747
+Union Bank,Denmark,Northern Europe,Retail Bank,209.77,74.29,13.25,1.67,8.8,48.2,17.0,9907
+Keystone Private Bank,Germany,Central Europe,Private Bank,17.86,41.45,0.93,0.13,8.9,57.2,17.3,592
+Sterling Private Bank,Netherlands,Western Europe,Private Bank,130.66,415.65,5.29,1.27,13.4,63.9,16.0,5910
+Lumen 2 Banking Group,Spain,Southern Europe,Universal Bank,72.97,5.15,1.98,0.36,10.0,61.3,14.3,1726
+Keystone Banking Group,France,Western Europe,Universal Bank,765.26,376.66,21.77,4.29,9.1,58.1,16.4,25447
+Lumen Asset Management,France,Western Europe,Asset Manager,91.57,152.77,3.91,0.62,11.2,50.4,15.9,1876
+Pioneer Asset Management,Spain,Southern Europe,Asset Manager,633.51,653.72,43.55,11.33,12.1,49.3,16.6,31053
+Rivermark Banking Group,France,Western Europe,Universal Bank,34.5,12.45,1.97,0.5,11.6,38.0,15.7,1635
+Lumen Private Bank,Italy,Southern Europe,Private Bank,203.69,169.11,5.57,0.65,8.2,60.3,14.7,10346
+Lumen 2 Insurance,Netherlands,Western Europe,Insurer,153.76,14.4,8.38,0.75,7.0,66.4,17.1,7646
+Harbor Bank,Switzerland,Central Europe,Retail Bank,44.15,19.11,1.76,0.31,12.5,40.4,24.2,2351
+Pioneer Bank,Sweden,Northern Europe,Retail Bank,132.46,11.85,7.53,1.03,8.4,53.5,10.2,2890
+Lumen Bank,Germany,Central Europe,Retail Bank,392.74,122.69,10.25,0.94,5.7,54.5,16.5,20449
+Helios Private Bank,Switzerland,Central Europe,Private Bank,78.26,122.53,4.06,0.82,12.1,45.3,14.4,2861
+Solstice 2 Banking Group,Switzerland,Central Europe,Universal Bank,18.61,3.26,1.23,0.24,11.2,54.0,17.2,561
+Solstice Asset Management,Netherlands,Western Europe,Asset Manager,107.94,180.89,3.07,0.36,7.4,45.3,16.8,3896
+Aster Asset Management,Germany,Central Europe,Asset Manager,42.63,125.98,2.38,0.48,12.1,56.3,19.0,1139
+Vela 2 Banking Group,Italy,Southern Europe,Universal Bank,76.75,44.0,5.42,0.98,11.9,57.7,19.0,1873
+Europa Insurance,France,Western Europe,Insurer,100.92,12.83,2.68,0.38,10.8,52.4,16.1,2258
+Vela Asset Management,France,Western Europe,Asset Manager,18.34,22.28,0.46,0.08,13.2,32.8,20.1,285
+Union Banking Group,Belgium,Western Europe,Universal Bank,20.16,7.6,0.91,0.12,6.1,54.9,8.5,672
+Alpine Banking Group,Switzerland,Central Europe,Universal Bank,182.39,73.49,6.57,1.21,10.8,62.8,20.3,9151
+Veritas Banking Group,Italy,Southern Europe,Universal Bank,63.51,27.97,1.36,0.24,9.1,37.6,16.6,2482
+Northbridge Bank,Sweden,Northern Europe,Retail Bank,8.0,3.5,0.31,0.04,8.2,56.0,18.7,275
+Sterling 3 Bank,Switzerland,Central Europe,Retail Bank,250.66,125.55,14.66,3.16,11.9,44.2,11.8,7627
+Arcadia Insurance,Netherlands,Western Europe,Insurer,146.35,46.23,5.33,1.44,13.8,54.9,13.0,4678
+Veritas 2 Banking Group,Spain,Southern Europe,Universal Bank,51.96,17.84,2.09,0.43,14.7,42.9,15.9,1091
+Crown 2 Banking Group,France,Western Europe,Universal Bank,27.59,6.29,1.83,0.39,13.4,52.6,15.4,1307
+Vela 2 Asset Management,France,Western Europe,Asset Manager,264.44,864.14,12.05,1.75,11.2,57.5,17.5,5428
+Aster Private Bank,Italy,Southern Europe,Private Bank,158.67,468.49,10.01,2.57,11.9,65.3,20.0,6793
+Alpine Insurance,Spain,Southern Europe,Insurer,1341.75,91.89,57.31,14.37,11.9,51.0,10.2,59948
+Europa Asset Management,Spain,Southern Europe,Asset Manager,170.92,183.24,11.74,2.35,11.8,55.1,19.6,6276
+Oakmont Banking Group,Switzerland,Central Europe,Universal Bank,165.19,16.82,8.36,1.79,10.3,44.7,15.5,8111
+Crown 3 Banking Group,Italy,Southern Europe,Universal Bank,92.27,14.29,2.39,0.53,12.1,60.3,14.9,2262
+Vela Insurance,Spain,Southern Europe,Insurer,259.2,104.02,15.78,1.91,9.6,50.8,11.1,12936
+Solstice 2 Asset Management,Spain,Southern Europe,Asset Manager,211.95,352.94,8.84,1.61,9.5,52.3,18.2,9191
+Rivermark Insurance,Germany,Central Europe,Insurer,409.24,115.23,9.98,1.67,8.7,57.5,8.5,18966
+Atlas Bank,Belgium,Western Europe,Retail Bank,63.6,6.33,1.72,0.3,11.2,42.6,17.4,2580
+Vela 2 Insurance,Netherlands,Western Europe,Insurer,69.6,20.07,3.6,0.57,9.8,57.4,11.0,3368
+Pioneer Private Bank,France,Western Europe,Private Bank,66.48,137.4,1.47,0.27,11.8,59.3,16.9,3636
+Summit Bank,Netherlands,Western Europe,Retail Bank,252.23,112.56,8.55,1.66,11.3,55.4,15.1,7583
+Oakmont 2 Private Bank,Austria,Central Europe,Private Bank,530.22,607.68,13.41,1.79,9.9,44.6,20.2,24919
+Union Asset Management,Germany,Central Europe,Asset Manager,67.91,224.97,3.03,0.82,13.5,48.8,16.2,2989
+Rivermark Bank,Belgium,Western Europe,Retail Bank,70.39,22.37,2.77,0.49,10.5,59.8,13.4,2215
+Atlas Banking Group,Germany,Central Europe,Universal Bank,152.9,88.91,5.97,0.57,6.6,48.0,14.0,7929
+Harbor Asset Management,Germany,Central Europe,Asset Manager,84.94,217.92,3.21,0.66,15.4,39.1,20.5,2459
+Harbor 2 Banking Group,Italy,Southern Europe,Universal Bank,298.76,96.6,5.74,0.85,8.5,64.0,17.1,10849
+Oakmont 2 Banking Group,Spain,Southern Europe,Universal Bank,10.34,3.24,0.43,0.04,5.4,64.9,14.3,171
+Helios Banking Group,Switzerland,Central Europe,Universal Bank,46.15,2.98,1.54,0.23,7.1,63.2,14.8,1001
+Helios 2 Banking Group,Italy,Southern Europe,Universal Bank,48.35,27.48,2.2,0.31,7.1,73.2,10.8,2328
+Alpine 2 Insurance,Netherlands,Western Europe,Insurer,9.62,2.17,0.23,0.05,9.9,58.9,16.7,279
+Nova 3 Asset Management,Switzerland,Central Europe,Asset Manager,39.97,42.72,0.79,0.12,10.8,58.9,11.4,1157
+Union 2 Bank,France,Western Europe,Retail Bank,42.06,25.22,1.23,0.19,8.6,76.8,17.8,949
+Nova Insurance,Belgium,Western Europe,Insurer,89.02,39.64,3.8,0.62,11.5,51.6,15.9,2949
+Summit Insurance,France,Western Europe,Insurer,353.76,26.9,13.66,3.09,10.7,48.7,22.7,16502
+Pioneer Banking Group,Sweden,Northern Europe,Universal Bank,85.0,7.14,5.05,0.72,10.8,57.3,12.2,4291
+Harbor Insurance,Spain,Southern Europe,Insurer,37.25,2.38,1.42,0.21,10.9,57.1,15.2,559
+Summit 2 Bank,France,Western Europe,Retail Bank,103.56,39.33,4.77,1.11,11.2,49.9,20.9,3802
+Solstice Insurance,Spain,Southern Europe,Insurer,330.84,29.56,12.71,1.14,4.1,58.0,19.1,10617
+Solstice 2 Private Bank,France,Western Europe,Private Bank,39.46,115.82,0.77,0.16,9.9,71.8,14.6,1515
+Union Private Bank,Sweden,Northern Europe,Private Bank,42.26,127.59,1.55,0.1,5.0,66.0,17.4,1319
+Europa 2 Bank,Netherlands,Western Europe,Retail Bank,197.65,69.24,6.9,1.24,9.6,51.0,15.5,5759
+Summit 2 Insurance,Netherlands,Western Europe,Insurer,87.13,33.91,3.38,0.52,9.8,62.3,16.3,2813
+Meridian Bank,Germany,Central Europe,Retail Bank,216.99,45.69,5.47,1.13,12.3,50.9,13.4,8034
+Sterling 4 Bank,Italy,Southern Europe,Retail Bank,108.38,9.23,6.67,1.16,12.7,49.3,15.2,3635
+Harbor 2 Bank,Germany,Central Europe,Retail Bank,229.69,104.65,14.81,2.4,10.0,59.4,10.7,7419
+Alpine Asset Management,France,Western Europe,Asset Manager,37.08,50.7,0.73,0.12,10.1,46.2,17.1,1749
+Summit 3 Bank,France,Western Europe,Retail Bank,108.56,10.54,5.33,0.72,10.8,56.6,16.9,4783
+Vela 3 Insurance,Denmark,Northern Europe,Insurer,88.13,19.49,4.65,0.78,8.4,71.6,14.8,2351
+Rivermark Private Bank,Austria,Central Europe,Private Bank,30.67,93.21,1.02,0.15,10.9,57.3,11.9,1423
+Union 3 Bank,Sweden,Northern Europe,Retail Bank,21.29,6.15,1.29,0.34,12.2,49.3,18.5,1037
+Helios Bank,Germany,Central Europe,Retail Bank,225.89,99.22,10.42,1.35,8.0,55.3,16.6,4201
+Vela 2 Bank,Denmark,Northern Europe,Retail Bank,76.06,37.32,5.11,0.78,11.7,49.9,13.3,2818
+Crown Private Bank,Switzerland,Central Europe,Private Bank,37.59,38.64,2.71,0.5,12.7,49.2,15.9,912
+Union 2 Asset Management,Sweden,Northern Europe,Asset Manager,99.39,287.32,1.98,0.26,8.9,54.6,12.2,4351
+Sterling 5 Bank,Netherlands,Western Europe,Retail Bank,359.39,98.32,15.44,3.46,12.1,58.4,12.4,8002
+Meridian Insurance,Germany,Central Europe,Insurer,10.03,5.18,0.48,0.09,11.7,40.6,13.9,409
+Atlas 2 Bank,France,Western Europe,Retail Bank,22.84,7.5,0.58,0.1,9.8,61.9,19.2,524
+Helios Asset Management,Austria,Central Europe,Asset Manager,41.72,117.95,1.43,0.21,9.4,53.8,14.8,1417
+Sterling 2 Insurance,Netherlands,Western Europe,Insurer,509.91,290.28,31.18,3.81,7.5,62.3,17.4,26919
+Europa 2 Asset Management,France,Western Europe,Asset Manager,147.93,473.53,2.87,0.51,10.0,47.5,15.1,4200
+Arcadia Asset Management,Germany,Central Europe,Asset Manager,246.09,703.22,10.94,2.55,13.0,59.9,17.4,12219
+Veritas 3 Insurance,Italy,Southern Europe,Insurer,33.21,6.09,1.8,0.24,7.2,68.8,15.1,1807
+Harbor 3 Bank,France,Western Europe,Retail Bank,33.94,8.54,1.19,0.22,10.7,61.1,18.1,1683
+Solstice Bank,Austria,Central Europe,Retail Bank,175.95,42.8,6.46,0.79,6.1,51.3,13.9,3366
+Vela 3 Bank,Sweden,Northern Europe,Retail Bank,116.88,39.57,7.46,0.88,8.9,63.0,10.8,5522
+Keystone 2 Banking Group,Sweden,Northern Europe,Universal Bank,195.62,104.8,8.2,1.27,10.2,58.0,11.4,2617
+Crown Asset Management,Netherlands,Western Europe,Asset Manager,90.28,151.73,2.84,1.04,18.1,32.0,15.1,2610
+Rivermark 2 Private Bank,Italy,Southern Europe,Private Bank,147.24,211.08,2.83,0.29,7.2,60.0,13.0,7279
+Continental Insurance,Italy,Southern Europe,Insurer,129.8,30.77,9.39,1.73,13.8,51.8,16.7,5401
+Atlas 3 Bank,Italy,Southern Europe,Retail Bank,248.8,124.89,7.82,1.45,9.9,59.5,14.1,8685
+Atlas 2 Asset Management,France,Western Europe,Asset Manager,256.56,533.76,11.98,3.01,12.6,52.4,23.8,7357
+Oakmont 2 Bank,Netherlands,Western Europe,Retail Bank,20.07,2.15,0.46,0.1,9.8,57.8,10.3,941
+Northbridge Banking Group,Belgium,Western Europe,Universal Bank,10.39,3.39,0.42,0.1,11.1,64.0,16.1,441
+Lumen 2 Asset Management,Spain,Southern Europe,Asset Manager,314.77,371.89,20.78,3.21,11.1,62.3,13.3,10117
+Europa 2 Insurance,Germany,Central Europe,Insurer,382.65,186.55,18.43,3.18,13.7,32.0,14.0,19276
+Crown 2 Private Bank,France,Western Europe,Private Bank,37.65,117.51,2.45,0.51,9.7,53.8,17.1,824
+Rivermark 2 Bank,France,Western Europe,Retail Bank,15.6,7.42,0.53,0.09,12.6,50.1,8.5,301
+Keystone 2 Private Bank,Italy,Southern Europe,Private Bank,122.0,222.1,5.12,0.99,9.2,44.6,17.4,4835
+Alpine Bank,France,Western Europe,Retail Bank,292.18,19.89,17.25,2.45,9.3,57.3,21.2,15718
+Northbridge Insurance,Denmark,Northern Europe,Insurer,725.94,82.65,26.38,2.55,6.9,69.3,14.1,16429
+Lumen 3 Asset Management,Italy,Southern Europe,Asset Manager,189.07,280.86,6.62,1.46,12.7,43.4,17.5,4298
+Oakmont 3 Bank,Germany,Central Europe,Retail Bank,74.42,17.18,4.97,1.47,13.4,52.2,18.6,1339
+Crown 2 Bank,Italy,Southern Europe,Retail Bank,43.04,13.88,1.58,0.22,9.3,50.3,15.0,2109
+Crown 3 Bank,Belgium,Western Europe,Retail Bank,111.28,27.37,4.77,0.54,9.0,52.5,13.8,2418
+Pioneer Insurance,Denmark,Northern Europe,Insurer,80.3,28.77,4.75,0.6,6.8,71.1,8.7,2701
+Aster Banking Group,Spain,Southern Europe,Universal Bank,37.87,11.9,1.02,0.18,9.3,52.9,17.4,2068
+Atlas 3 Asset Management,Switzerland,Central Europe,Asset Manager,945.01,1226.28,28.57,4.17,7.2,63.4,16.4,11833
+Crown 3 Private Bank,France,Western Europe,Private Bank,716.53,1802.77,13.68,1.79,8.4,45.0,13.7,25744
+Orion Private Bank,Spain,Southern Europe,Private Bank,362.44,661.54,14.3,2.5,11.5,66.0,17.1,12333
+Nova Bank,Spain,Southern Europe,Retail Bank,41.81,10.05,1.3,0.23,13.1,54.7,13.7,1953
+Summit 3 Insurance,Denmark,Northern Europe,Insurer,269.82,100.33,17.25,4.2,17.4,42.0,13.9,7360
+Vela 3 Banking Group,Italy,Southern Europe,Universal Bank,215.21,81.36,5.58,0.61,8.3,62.3,17.3,6379
+Lumen 2 Private Bank,Spain,Southern Europe,Private Bank,174.98,494.09,10.37,2.09,14.8,37.8,12.7,3363
+Pioneer 2 Asset Management,Germany,Central Europe,Asset Manager,408.36,1402.14,13.71,3.11,12.2,60.2,19.8,17908
+Northbridge 2 Private Bank,Germany,Central Europe,Private Bank,214.25,438.06,7.8,1.27,10.5,52.4,12.5,9800
+Solstice 2 Insurance,Spain,Southern Europe,Insurer,239.13,97.11,8.76,1.73,11.0,52.5,13.5,4274
+Solstice 2 Bank,Netherlands,Western Europe,Retail Bank,214.59,26.67,11.34,1.94,9.7,52.6,21.3,6205
+Pioneer 2 Banking Group,Belgium,Western Europe,Universal Bank,157.25,46.01,6.53,0.86,10.2,51.1,18.9,7924
+Arcadia 2 Banking Group,Switzerland,Central Europe,Universal Bank,16.9,9.14,0.59,0.08,8.8,62.3,15.8,204
+Continental Banking Group,Austria,Central Europe,Universal Bank,120.04,8.4,6.3,0.49,6.1,63.7,12.7,2982
+Rivermark 3 Bank,France,Western Europe,Retail Bank,61.31,31.9,2.42,0.22,5.3,67.8,13.9,2199
+Orion Bank,Spain,Southern Europe,Retail Bank,28.68,4.01,0.87,0.15,11.3,53.4,15.7,756
+Orion Banking Group,France,Western Europe,Universal Bank,642.85,211.49,38.96,5.75,9.2,60.5,15.6,15234
+Oakmont 3 Banking Group,Italy,Southern Europe,Universal Bank,675.49,191.43,22.49,3.82,8.3,55.4,15.2,21468
+Veritas 3 Banking Group,Germany,Central Europe,Universal Bank,458.14,25.46,9.37,1.74,9.9,71.2,15.4,9073
+Vela Private Bank,Italy,Southern Europe,Private Bank,143.74,173.85,6.73,1.38,13.0,39.5,16.1,4998
+Atlas 2 Private Bank,Sweden,Northern Europe,Private Bank,454.03,627.48,11.68,2.81,11.4,62.0,12.4,19245
+Europa Banking Group,Switzerland,Central Europe,Universal Bank,111.35,64.01,3.16,0.33,8.1,68.2,14.0,4090
+Lumen 3 Banking Group,France,Western Europe,Universal Bank,136.04,28.26,8.24,2.21,13.2,44.2,18.2,2177
+Pioneer 2 Bank,Austria,Central Europe,Retail Bank,34.88,18.36,0.98,0.26,13.8,64.9,11.4,1684
+Crown 4 Private Bank,Germany,Central Europe,Private Bank,166.81,243.55,10.34,1.76,12.2,58.8,16.1,3256
+Atlas 2 Banking Group,Belgium,Western Europe,Universal Bank,117.14,41.73,8.12,2.1,12.5,58.1,13.0,5258
+Harbor 4 Bank,Spain,Southern Europe,Retail Bank,28.0,4.52,1.47,0.25,12.9,51.0,15.8,770
+Rivermark 2 Banking Group,Netherlands,Western Europe,Universal Bank,104.19,44.48,6.06,1.11,13.0,49.1,14.3,4757
+Oakmont 4 Banking Group,Switzerland,Central Europe,Universal Bank,101.12,35.59,5.66,1.38,11.6,51.5,19.9,2110
+Veritas Bank,Switzerland,Central Europe,Retail Bank,725.92,413.4,50.25,8.07,11.1,56.4,17.0,14537
+Summit Private Bank,Germany,Central Europe,Private Bank,281.16,780.33,10.63,1.95,12.3,61.5,12.8,9382
+Continental Private Bank,Denmark,Northern Europe,Private Bank,111.28,223.76,2.75,0.31,7.9,60.2,18.7,1492
+Orion 2 Asset Management,Germany,Central Europe,Asset Manager,142.77,120.48,6.94,1.26,13.4,43.5,14.4,3096
+Arcadia 2 Private Bank,Spain,Southern Europe,Private Bank,115.17,391.91,4.67,0.48,7.2,65.8,15.0,4967
+Alpine Private Bank,Germany,Central Europe,Private Bank,88.85,266.78,2.32,0.31,8.8,64.0,17.6,4265
+Solstice 3 Banking Group,Denmark,Northern Europe,Universal Bank,35.28,2.31,1.9,0.45,13.4,54.4,14.0,545
+Aster 2 Asset Management,France,Western Europe,Asset Manager,93.82,295.21,2.03,0.4,13.8,54.5,19.4,4684
+Continental 2 Banking Group,Belgium,Western Europe,Universal Bank,50.23,28.12,3.6,0.64,13.9,47.1,13.2,2325
+Solstice 4 Banking Group,Netherlands,Western Europe,Universal Bank,29.58,2.7,0.91,0.13,9.2,50.4,13.6,1461
+Nova Private Bank,Denmark,Northern Europe,Private Bank,188.06,460.68,3.58,0.41,7.8,53.1,14.7,7904
+Oakmont 5 Banking Group,Austria,Central Europe,Universal Bank,165.81,71.39,3.86,0.59,9.3,45.3,13.8,6796
+Aster 2 Banking Group,Sweden,Northern Europe,Universal Bank,16.84,6.84,0.51,0.07,10.2,56.9,18.8,582
+Aster 3 Asset Management,Austria,Central Europe,Asset Manager,96.66,135.25,3.25,0.48,11.7,52.1,18.6,3873
+Meridian 2 Insurance,Austria,Central Europe,Insurer,312.78,159.18,6.9,1.75,12.9,47.7,20.6,16114
+Alpine 3 Insurance,Spain,Southern Europe,Insurer,334.35,112.97,10.35,1.75,8.8,36.8,22.3,5457
+Europa 2 Banking Group,Germany,Central Europe,Universal Bank,322.83,177.22,9.28,1.58,10.9,45.4,12.4,8257
+Lumen 4 Banking Group,Switzerland,Central Europe,Universal Bank,114.53,61.03,3.86,0.45,7.2,67.9,15.7,1731
+Pioneer 3 Asset Management,Italy,Southern Europe,Asset Manager,45.27,74.88,1.84,0.36,12.7,46.4,13.2,2382
+Alpine 2 Banking Group,Netherlands,Western Europe,Universal Bank,35.24,11.76,1.23,0.26,9.9,58.2,13.2,1097
+Summit 4 Insurance,France,Western Europe,Insurer,157.88,29.75,5.06,0.67,7.8,49.4,13.6,6479
+Sterling Banking Group,Sweden,Northern Europe,Universal Bank,163.73,53.75,3.67,0.52,9.3,66.8,12.3,7886
+Pioneer 3 Bank,Germany,Central Europe,Retail Bank,424.83,44.8,8.15,1.12,9.0,56.1,12.3,23201
+Vela 4 Bank,Denmark,Northern Europe,Retail Bank,348.97,143.9,9.52,1.23,8.8,59.6,15.1,6615
+Helios Insurance,Germany,Central Europe,Insurer,95.69,11.84,6.08,1.26,14.6,64.2,11.8,4438
+Arcadia Bank,France,Western Europe,Retail Bank,29.77,9.86,1.94,0.27,9.2,67.4,18.0,1493
+Union 2 Banking Group,Switzerland,Central Europe,Universal Bank,78.64,6.28,4.89,0.62,9.2,54.6,12.7,1109
+Helios 3 Banking Group,France,Western Europe,Universal Bank,138.12,29.66,4.84,0.31,4.2,60.9,23.9,6135
+Crown 4 Bank,France,Western Europe,Retail Bank,88.93,15.8,3.58,0.4,7.1,58.0,14.1,2423
+Atlas 3 Banking Group,Italy,Southern Europe,Universal Bank,59.93,23.43,1.98,0.27,9.2,60.4,15.7,2390
+Union 3 Asset Management,Austria,Central Europe,Asset Manager,143.38,265.8,7.97,1.58,9.6,55.3,12.8,4889
+Lumen 2 Bank,France,Western Europe,Retail Bank,64.77,5.28,3.99,0.97,13.2,47.4,20.6,1500
+Lumen 4 Asset Management,Germany,Central Europe,Asset Manager,56.86,71.57,3.5,0.61,11.1,64.0,20.1,1012
+Nova 2 Insurance,Switzerland,Central Europe,Insurer,152.48,79.81,10.47,1.84,13.3,49.3,16.4,2596
+Atlas 4 Banking Group,Denmark,Northern Europe,Universal Bank,72.09,17.18,2.87,0.42,10.1,71.5,11.5,1185
+Harbor 5 Bank,Spain,Southern Europe,Retail Bank,142.07,58.6,7.83,1.56,9.6,56.8,16.1,5601
+Northbridge 3 Private Bank,France,Western Europe,Private Bank,146.48,418.08,8.64,1.4,10.7,66.9,13.3,3971
+Meridian 2 Bank,Belgium,Western Europe,Retail Bank,33.23,4.48,1.1,0.2,9.5,58.8,19.9,708
+Union 3 Banking Group,France,Western Europe,Universal Bank,66.33,22.6,4.85,1.0,14.5,54.7,17.9,2769
+Nova 3 Insurance,France,Western Europe,Insurer,497.53,48.51,9.13,0.44,3.5,61.1,15.8,20664
+Aster Insurance,Italy,Southern Europe,Insurer,32.45,17.3,1.78,0.12,4.4,58.8,8.5,1141
+Rivermark 3 Asset Management,France,Western Europe,Asset Manager,11.91,15.53,0.67,0.1,10.0,58.7,13.7,621
+Helios 4 Banking Group,Spain,Southern Europe,Universal Bank,15.57,7.81,0.36,0.06,9.9,62.5,17.6,444
+Continental Asset Management,Sweden,Northern Europe,Asset Manager,113.36,183.06,6.34,1.4,13.4,50.2,20.3,5434
+Alpine 2 Asset Management,Italy,Southern Europe,Asset Manager,113.57,169.11,2.51,0.43,12.8,41.9,20.0,1729
+Atlas 5 Banking Group,France,Western Europe,Universal Bank,97.17,57.48,5.24,0.66,8.9,47.9,10.7,4257
+Orion 2 Private Bank,Switzerland,Central Europe,Private Bank,393.43,1012.06,25.25,5.45,13.7,39.5,17.6,21443
+Crown 5 Bank,Sweden,Northern Europe,Retail Bank,8.0,1.0,0.41,0.09,12.3,39.4,18.5,387
+Summit 4 Bank,Sweden,Northern Europe,Retail Bank,166.62,59.83,10.03,2.14,10.0,56.3,10.5,6152
+Atlas 6 Banking Group,France,Western Europe,Universal Bank,566.52,130.77,14.3,3.57,12.5,59.3,15.5,22066
+Crown 6 Bank,France,Western Europe,Retail Bank,33.64,7.65,1.08,0.21,10.2,55.0,16.3,914
+Rivermark 4 Bank,Denmark,Northern Europe,Retail Bank,73.79,3.98,2.67,0.37,8.0,43.0,14.6,3041
+Veritas 4 Insurance,Netherlands,Western Europe,Insurer,49.87,18.85,1.09,0.16,11.7,51.4,9.9,2250
+Alpine 4 Insurance,Germany,Central Europe,Insurer,42.99,8.39,1.74,0.28,10.1,54.2,14.5,2361
+Vela 2 Private Bank,Spain,Southern Europe,Private Bank,78.06,132.49,2.53,0.52,10.9,68.7,15.7,2589
+Keystone Insurance,Italy,Southern Europe,Insurer,492.19,35.55,20.8,5.88,13.8,39.1,15.1,7203
+Crown Insurance,Denmark,Northern Europe,Insurer,756.92,189.53,23.17,1.3,3.2,64.0,13.8,28476
+Solstice 3 Bank,Germany,Central Europe,Retail Bank,77.27,41.22,4.08,0.31,5.7,74.6,14.2,1322
+Vela 4 Banking Group,Denmark,Northern Europe,Universal Bank,812.66,191.11,23.04,2.64,6.7,64.1,15.4,18305
+Lumen 5 Banking Group,Belgium,Western Europe,Universal Bank,114.13,48.33,6.83,0.85,8.9,61.2,16.8,2983
+Aster Bank,Spain,Southern Europe,Retail Bank,693.24,323.12,26.19,3.16,8.8,58.3,14.6,30110
+Alpine 3 Asset Management,Italy,Southern Europe,Asset Manager,99.69,265.17,3.16,0.48,7.4,62.0,15.5,1984
+Vela 5 Banking Group,France,Western Europe,Universal Bank,126.17,63.32,4.94,0.54,7.2,65.5,15.8,2413
+Veritas 4 Banking Group,France,Western Europe,Universal Bank,161.38,69.48,5.78,0.56,7.6,53.8,9.7,2248
+Helios 2 Bank,Netherlands,Western Europe,Retail Bank,1800.0,643.65,67.06,18.0,16.1,51.5,16.9,89188
+Lumen 3 Bank,Denmark,Northern Europe,Retail Bank,268.77,13.59,13.19,4.05,14.4,38.7,15.5,11240
+Oakmont 2 Insurance,Italy,Southern Europe,Insurer,52.32,3.63,1.3,0.15,8.7,60.0,15.6,717
+Solstice 4 Bank,Denmark,Northern Europe,Retail Bank,304.13,180.95,10.34,1.16,8.5,59.2,18.4,4019
+Rivermark 5 Bank,Switzerland,Central Europe,Retail Bank,75.19,36.11,3.06,0.31,6.4,57.1,9.6,2708
+Continental 3 Banking Group,Spain,Southern Europe,Universal Bank,65.74,37.19,2.11,0.16,4.7,64.0,9.6,1587
+Solstice 5 Banking Group,Switzerland,Central Europe,Universal Bank,285.44,155.93,16.51,3.02,9.6,51.8,16.3,10749
+Lumen 3 Private Bank,Belgium,Western Europe,Private Bank,113.6,329.16,3.32,0.37,8.2,51.0,16.7,3486
+Helios 5 Banking Group,France,Western Europe,Universal Bank,147.3,71.52,9.57,1.48,9.7,53.6,16.0,7616
+Crown 7 Bank,Switzerland,Central Europe,Retail Bank,111.57,33.26,5.34,0.6,5.2,55.7,14.1,2719
+Crown 8 Bank,Switzerland,Central Europe,Retail Bank,156.56,75.81,9.42,1.02,7.4,62.0,17.5,6450
+Solstice 3 Insurance,Germany,Central Europe,Insurer,171.78,9.22,10.25,1.34,10.2,47.1,18.3,2460
+Solstice 3 Private Bank,Spain,Southern Europe,Private Bank,14.38,13.98,0.39,0.06,11.9,57.4,18.2,763
+Sterling 2 Private Bank,Italy,Southern Europe,Private Bank,221.38,671.44,10.42,2.29,12.0,43.9,15.9,11992
+Solstice 3 Asset Management,Austria,Central Europe,Asset Manager,39.21,99.06,0.98,0.17,7.9,54.9,10.4,1716
+Crown 2 Asset Management,Italy,Southern Europe,Asset Manager,24.18,67.34,1.58,0.28,13.8,44.8,19.0,773
+Continental Bank,Netherlands,Western Europe,Retail Bank,103.41,22.3,4.44,0.42,7.3,69.2,19.2,2219
+Summit Banking Group,Netherlands,Western Europe,Universal Bank,120.08,26.5,3.97,0.72,11.6,55.2,17.4,5636
+Crown 4 Banking Group,Netherlands,Western Europe,Universal Bank,53.08,30.88,3.37,0.49,9.9,54.2,12.9,2317
+Atlas 7 Banking Group,Italy,Southern Europe,Universal Bank,263.11,76.71,5.58,0.56,6.2,65.3,17.5,5668
+Rivermark 2 Insurance,Austria,Central Europe,Insurer,26.86,7.95,1.19,0.18,8.9,42.5,18.1,843
+Orion 2 Banking Group,Netherlands,Western Europe,Universal Bank,71.72,25.37,3.96,0.88,10.9,53.7,20.2,2287
+Crown 3 Asset Management,Germany,Central Europe,Asset Manager,59.49,67.48,1.41,0.38,13.2,64.3,14.1,2828
+Orion 2 Insurance,Germany,Central Europe,Insurer,104.7,37.06,4.89,0.87,9.4,57.4,14.8,4335
+Oakmont 6 Banking Group,Sweden,Northern Europe,Universal Bank,147.35,42.4,9.7,1.83,14.0,49.3,17.7,5843
+Europa 3 Insurance,Switzerland,Central Europe,Insurer,38.16,19.26,0.9,0.23,12.5,55.2,15.7,1524
+Summit 2 Private Bank,France,Western Europe,Private Bank,235.21,224.32,10.29,1.99,10.2,61.4,13.3,5558
+Meridian 3 Insurance,Belgium,Western Europe,Insurer,117.47,66.09,3.88,0.71,11.8,38.5,16.7,3287
+Arcadia 3 Banking Group,Italy,Southern Europe,Universal Bank,15.08,5.43,0.89,0.26,15.1,35.3,17.2,210
+Solstice 6 Banking Group,France,Western Europe,Universal Bank,14.06,4.12,0.4,0.12,15.2,48.4,15.8,644
+Orion 3 Banking Group,Switzerland,Central Europe,Universal Bank,108.53,47.53,6.19,0.63,6.6,56.1,16.2,3323
+Veritas 2 Bank,Germany,Central Europe,Retail Bank,87.18,44.56,4.89,0.59,7.0,69.6,14.7,2689
+Pioneer 3 Banking Group,France,Western Europe,Universal Bank,98.63,35.47,3.07,0.64,13.9,46.8,19.9,2224
+Harbor 2 Insurance,Denmark,Northern Europe,Insurer,106.76,46.44,3.3,0.3,6.9,47.0,12.8,2242
+Vela 3 Private Bank,France,Western Europe,Private Bank,139.33,371.28,6.0,0.87,7.3,51.0,14.9,5193
+Northbridge 2 Bank,Germany,Central Europe,Retail Bank,297.39,125.5,14.97,1.59,8.2,39.2,15.5,6542
+Orion 4 Banking Group,France,Western Europe,Universal Bank,34.24,15.76,1.42,0.2,11.0,52.2,18.1,505
+Keystone Bank,France,Western Europe,Retail Bank,32.12,5.29,0.82,0.1,9.2,55.5,11.0,1445
+Alpine 2 Bank,Belgium,Western Europe,Retail Bank,34.88,11.31,0.77,0.09,7.7,56.3,11.6,983
+Alpine 5 Insurance,Belgium,Western Europe,Insurer,148.91,55.63,9.35,1.12,8.0,66.4,9.4,4221
+Solstice 7 Banking Group,France,Western Europe,Universal Bank,406.34,20.87,15.46,1.83,8.0,67.2,15.6,12412
+Orion 5 Banking Group,Belgium,Western Europe,Universal Bank,69.9,36.4,3.92,0.43,7.5,58.4,12.1,3288
+Vela 4 Private Bank,Italy,Southern Europe,Private Bank,8.0,27.67,0.41,0.15,17.1,32.0,15.5,206
+Keystone 2 Bank,Italy,Southern Europe,Retail Bank,18.37,2.22,1.18,0.15,10.3,59.3,17.5,819
+Arcadia 4 Banking Group,Netherlands,Western Europe,Universal Bank,45.85,22.88,1.13,0.21,12.3,55.6,13.6,2402
+Vela 3 Asset Management,Germany,Central Europe,Asset Manager,61.21,192.27,1.49,0.21,10.2,57.4,17.4,2474
+Atlas 3 Private Bank,Spain,Southern Europe,Private Bank,71.61,127.79,4.62,0.83,10.4,61.7,15.8,2188
+Solstice 4 Insurance,Austria,Central Europe,Insurer,114.49,30.41,6.89,1.19,7.9,50.9,17.5,5055
+Helios 2 Private Bank,Austria,Central Europe,Private Bank,79.25,171.95,2.14,0.13,3.7,79.9,18.1,2511
+Helios 6 Banking Group,Belgium,Western Europe,Universal Bank,330.9,91.9,10.4,1.02,6.2,55.1,13.4,9867
+Harbor 2 Asset Management,France,Western Europe,Asset Manager,54.06,80.82,1.95,0.21,6.6,66.3,16.2,1869
+Northbridge 2 Insurance,Germany,Central Europe,Insurer,44.46,2.24,1.38,0.09,3.7,54.0,18.6,1140
+Aster 4 Asset Management,Germany,Central Europe,Asset Manager,181.78,230.72,4.78,0.74,8.3,51.8,17.9,2996
+Europa 4 Insurance,Italy,Southern Europe,Insurer,21.92,9.76,1.51,0.32,13.4,60.5,11.3,654
+Rivermark 4 Asset Management,Netherlands,Western Europe,Asset Manager,165.53,168.43,5.34,1.05,11.4,51.4,18.7,2868
+Harbor 3 Insurance,Belgium,Western Europe,Insurer,122.45,39.56,7.16,1.2,13.3,56.0,12.2,3630
+Sterling 6 Bank,Netherlands,Western Europe,Retail Bank,94.18,46.66,2.1,0.44,10.6,56.2,19.7,3385
+Meridian 2 Asset Management,Spain,Southern Europe,Asset Manager,582.71,691.62,13.33,3.23,13.6,48.8,19.8,30312
+Aster 3 Banking Group,France,Western Europe,Universal Bank,57.21,11.61,2.65,0.36,7.5,69.2,16.4,775
+Alpine 2 Private Bank,Switzerland,Central Europe,Private Bank,956.53,1268.91,36.04,6.93,12.3,50.0,17.2,37039
+Meridian Private Bank,Belgium,Western Europe,Private Bank,86.77,75.71,4.78,0.98,12.9,38.3,16.1,2749
+Pioneer 2 Insurance,Denmark,Northern Europe,Insurer,28.76,17.07,0.63,0.08,8.2,52.8,17.5,370
+Orion 3 Insurance,France,Western Europe,Insurer,118.32,69.12,7.98,1.15,11.3,57.2,14.4,2689
+Orion 6 Banking Group,Austria,Central Europe,Universal Bank,35.51,19.72,2.04,0.42,11.4,55.9,16.2,607
+Keystone Asset Management,Austria,Central Europe,Asset Manager,49.93,92.26,3.06,0.44,10.0,44.5,19.3,1064
+Pioneer 4 Asset Management,Denmark,Northern Europe,Asset Manager,166.81,383.43,4.0,0.74,8.5,53.0,15.0,3971
+Pioneer 4 Banking Group,Switzerland,Central Europe,Universal Bank,197.03,28.51,6.01,0.74,6.7,56.9,13.7,5764
+Orion 2 Bank,Switzerland,Central Europe,Retail Bank,57.21,19.96,2.07,0.33,9.7,53.4,11.9,1987
+Summit 5 Bank,Italy,Southern Europe,Retail Bank,310.06,146.03,14.03,3.16,10.4,45.2,12.3,3733
+Continental 2 Asset Management,Switzerland,Central Europe,Asset Manager,370.7,1058.73,11.99,1.68,9.4,52.2,11.2,7028
+Northbridge 2 Banking Group,France,Western Europe,Universal Bank,496.76,262.06,10.69,1.55,10.0,50.4,17.7,7959
+Crown 2 Insurance,Spain,Southern Europe,Insurer,191.69,21.15,7.3,1.16,11.3,58.7,20.9,6831
+Pioneer 5 Banking Group,Spain,Southern Europe,Universal Bank,460.17,119.42,14.97,2.75,11.6,58.6,19.8,12033
+Pioneer 3 Insurance,Austria,Central Europe,Insurer,15.26,5.01,0.64,0.14,14.0,47.9,10.6,542
+Meridian Banking Group,Spain,Southern Europe,Universal Bank,78.74,22.66,2.46,0.56,13.3,47.2,17.7,1696
+Alpine 4 Asset Management,Netherlands,Western Europe,Asset Manager,44.24,35.82,1.33,0.25,8.8,58.5,21.0,576
+Arcadia 2 Bank,Italy,Southern Europe,Retail Bank,124.61,16.75,6.91,2.0,14.0,43.1,14.1,6539
+Crown 5 Private Bank,Germany,Central Europe,Private Bank,60.34,66.11,2.22,0.31,9.5,48.4,17.0,1005
+Alpine 5 Asset Management,France,Western Europe,Asset Manager,92.35,97.65,3.72,0.67,14.3,41.8,10.7,1611
+Europa 5 Insurance,Spain,Southern Europe,Insurer,793.37,60.93,35.31,7.74,10.0,51.1,16.3,14519
+Rivermark 5 Asset Management,Netherlands,Western Europe,Asset Manager,92.0,247.8,5.22,0.84,10.4,46.7,13.5,4985
+Atlas 4 Bank,Germany,Central Europe,Retail Bank,169.78,52.7,5.19,0.34,4.6,65.5,16.1,6546
+Vela 6 Banking Group,Germany,Central Europe,Universal Bank,86.15,12.1,3.99,0.51,9.4,61.5,10.8,3294
+Pioneer 4 Bank,Germany,Central Europe,Retail Bank,119.04,52.12,6.62,0.55,5.3,52.2,17.1,6479
+Helios 3 Bank,Germany,Central Europe,Retail Bank,110.64,53.93,5.19,0.94,12.1,52.2,18.6,1748
+Sterling Asset Management,Netherlands,Western Europe,Asset Manager,176.05,309.48,13.05,2.93,15.6,44.7,14.4,9489
+Northbridge Asset Management,Italy,Southern Europe,Asset Manager,373.74,312.11,20.91,2.6,9.3,59.0,13.3,7763
+Northbridge 2 Asset Management,Germany,Central Europe,Asset Manager,620.03,965.75,14.29,3.57,12.3,51.6,10.2,24052
+Rivermark 3 Insurance,Denmark,Northern Europe,Insurer,152.19,33.02,5.58,0.57,7.8,48.9,14.7,4575
