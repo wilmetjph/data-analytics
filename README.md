@@ -17,3 +17,10 @@ Analysis of profitability, business scale and regional differences across a synt
 **Skills:** pandas, filtering, sorting, `groupby()`, `agg()` and descriptive statistics.
 
 [View project](02-financial-institutions-analysis)
+
+### 03 — Investment Portfolio Analysis
+Analysis of client portfolios with a focus on asset allocation, geographic and sector exposure, client profiles, recurring holdings and portfolio concentration.
+
+**Skills:** pandas, filtering, `groupby()`, aggregation, portfolio weights, proportions and visualization.
+
+[View project](03-investment-portfolio-analysis)
