@@ -1,0 +1,192 @@
+portfolio_id,client_profile,instrument,asset_class,sector,region,market_value,performance_ytd
+P019,Conservative,Euro Gov Bond 2029,Bond,Government,Europe,52900,0.0511
+P016,Growth,Nestle,Equity,Consumer Staples,Europe,90400,0.0892
+P012,Balanced,Novo Nordisk,Equity,Healthcare,Europe,47500,0.219
+P006,Growth,Eli Lilly,Equity,Healthcare,North America,98400,0.2762
+P009,Balanced,Investment Grade Corp EUR,Bond,Corporate,Europe,130600,0.0448
+P020,Conservative,European High Yield,Bond,Corporate,Europe,82500,0.0052
+P015,Conservative,European High Yield,Bond,Corporate,Europe,76800,0.0168
+P017,Balanced,Microsoft,Equity,Technology,North America,177500,0.224
+P016,Growth,Toyota,Equity,Consumer Discretionary,Asia,64300,0.3176
+P014,Balanced,Allianz,Equity,Financials,Europe,41400,0.0937
+P006,Growth,SAP,Equity,Technology,Europe,73200,0.3397
+P012,Balanced,Alphabet,Equity,Communication Services,North America,56200,0.3125
+P009,Balanced,Schneider Electric,Equity,Industrials,Europe,135800,-0.0582
+P018,Balanced,US Treasury 2033,Bond,Government,North America,130600,0.0554
+P001,Growth,Sony,Equity,Communication Services,Asia,194600,0.2513
+P002,Balanced,US Treasury 2030,Bond,Government,North America,46700,-0.0177
+P020,Conservative,Investment Grade Corp USD,Bond,Corporate,North America,98500,0.0
+P004,Conservative,EUR Cash,Cash,Cash,Europe,181900,0.0259
+P018,Balanced,ASML,Equity,Technology,Europe,93300,0.2054
+P002,Balanced,Alphabet,Equity,Communication Services,North America,80100,0.3057
+P012,Balanced,Sony,Equity,Communication Services,Asia,103700,0.1192
+P015,Conservative,US Treasury 2030,Bond,Government,North America,93000,0.0515
+P020,Conservative,Euro Gov Bond 2032,Bond,Government,Europe,67900,0.0822
+P008,Growth,NVIDIA,Equity,Technology,North America,111700,0.1657
+P016,Growth,Investment Grade Corp USD,Bond,Corporate,North America,101200,-0.0193
+P014,Balanced,Investment Grade Corp USD,Bond,Corporate,North America,63400,0.0334
+P009,Balanced,ASML,Equity,Technology,Europe,90900,-0.0669
+P018,Balanced,US Treasury 2030,Bond,Government,North America,108000,0.0045
+P013,Conservative,European High Yield,Bond,Corporate,Europe,98400,0.048
+P013,Conservative,Euro Gov Bond 2032,Bond,Government,Europe,115900,0.0797
+P016,Growth,TSMC,Equity,Technology,Asia,73200,0.0353
+P009,Balanced,Coca-Cola,Equity,Consumer Staples,North America,65700,0.3119
+P020,Conservative,Sony,Equity,Communication Services,Asia,142300,-0.0205
+P015,Conservative,Investment Grade Corp EUR,Bond,Corporate,Europe,94000,-0.0244
+P011,Growth,Visa,Equity,Financials,North America,39700,0.0408
+P017,Balanced,Coca-Cola,Equity,Consumer Staples,North America,185800,-0.0673
+P008,Growth,Alphabet,Equity,Communication Services,North America,134900,0.3104
+P012,Balanced,Euro Gov Bond 2032,Bond,Government,Europe,56600,-0.0113
+P016,Growth,LVMH,Equity,Consumer Discretionary,Europe,77100,0.2846
+P002,Balanced,Apple,Equity,Technology,North America,82900,0.0926
+P003,Growth,Siemens,Equity,Industrials,Europe,93900,-0.0908
+P011,Growth,Allianz,Equity,Financials,Europe,62000,0.0965
+P006,Growth,Coca-Cola,Equity,Consumer Staples,North America,51800,-0.0051
+P001,Growth,Novo Nordisk,Equity,Healthcare,Europe,96500,0.3276
+P010,Balanced,USD Cash,Cash,Cash,North America,55700,0.0297
+P010,Balanced,NVIDIA,Equity,Technology,North America,74000,0.0498
+P010,Balanced,European High Yield,Bond,Corporate,Europe,49400,0.0819
+P010,Balanced,LVMH,Equity,Consumer Discretionary,Europe,37600,-0.1034
+P011,Growth,JPMorgan Chase,Equity,Financials,North America,64800,-0.0282
+P015,Conservative,Investment Grade Corp USD,Bond,Corporate,North America,93600,0.0592
+P016,Growth,Microsoft,Equity,Technology,North America,88200,0.0739
+P019,Conservative,Euro Gov Bond 2032,Bond,Government,Europe,50600,0.0087
+P003,Growth,Investment Grade Corp USD,Bond,Corporate,North America,72700,0.0455
+P007,Growth,Novo Nordisk,Equity,Healthcare,Europe,107100,0.2723
+P018,Balanced,EUR Cash,Cash,Cash,Europe,149800,0.0336
+P017,Balanced,USD Cash,Cash,Cash,North America,100700,0.014
+P012,Balanced,Siemens,Equity,Industrials,Europe,71000,0.0806
+P020,Conservative,US Treasury 2033,Bond,Government,North America,101700,0.0338
+P008,Growth,Euro Gov Bond 2032,Bond,Government,Europe,276000,0.0341
+P016,Growth,Sony,Equity,Communication Services,Asia,94400,-0.0003
+P005,Balanced,Nestle,Equity,Consumer Staples,Europe,101500,-0.1103
+P005,Balanced,European High Yield,Bond,Corporate,Europe,90500,0.0113
+P016,Growth,USD Cash,Cash,Cash,North America,70500,0.0138
+P014,Balanced,Nestle,Equity,Consumer Staples,Europe,106800,-0.0193
+P013,Conservative,Investment Grade Corp EUR,Bond,Corporate,Europe,80600,0.0091
+P014,Balanced,US Treasury 2033,Bond,Government,North America,49700,0.0261
+P010,Balanced,Investment Grade Corp USD,Bond,Corporate,North America,73600,0.0776
+P020,Conservative,US Treasury 2030,Bond,Government,North America,117700,-0.0053
+P006,Growth,Novo Nordisk,Equity,Healthcare,Europe,57400,-0.0967
+P010,Balanced,Microsoft,Equity,Technology,North America,62900,0.1342
+P015,Conservative,Novo Nordisk,Equity,Healthcare,Europe,83600,-0.0136
+P014,Balanced,USD Cash,Cash,Cash,North America,54200,0.0235
+P020,Conservative,EUR Cash,Cash,Cash,Europe,145300,0.0153
+P018,Balanced,Investment Grade Corp EUR,Bond,Corporate,Europe,85500,0.0229
+P003,Growth,USD Cash,Cash,Cash,North America,20900,0.0233
+P009,Balanced,European High Yield,Bond,Corporate,Europe,98500,-0.0026
+P001,Growth,Siemens,Equity,Industrials,Europe,154300,0.1339
+P018,Balanced,NVIDIA,Equity,Technology,North America,151000,0.2175
+P020,Conservative,Investment Grade Corp EUR,Bond,Corporate,Europe,75400,0.0359
+P009,Balanced,Emerging Market Bond,Bond,Government,Emerging Markets,125600,0.0539
+P009,Balanced,USD Cash,Cash,Cash,North America,90500,0.0247
+P004,Conservative,Euro Gov Bond 2029,Bond,Government,Europe,160000,-0.0163
+P011,Growth,US Treasury 2030,Bond,Government,North America,56800,0.0188
+P011,Growth,Novo Nordisk,Equity,Healthcare,Europe,49400,0.2808
+P008,Growth,Samsung Electronics,Equity,Technology,Asia,128700,-0.1157
+P012,Balanced,Emerging Market Bond,Bond,Government,Emerging Markets,81500,0.074
+P011,Growth,Coca-Cola,Equity,Consumer Staples,North America,43600,0.3025
+P006,Growth,Sony,Equity,Communication Services,Asia,71600,0.2646
+P013,Conservative,Eli Lilly,Equity,Healthcare,North America,149900,0.0832
+P013,Conservative,Allianz,Equity,Financials,Europe,118500,0.1908
+P019,Conservative,Investment Grade Corp EUR,Bond,Corporate,Europe,59600,0.029
+P013,Conservative,Investment Grade Corp USD,Bond,Corporate,North America,120400,0.0431
+P014,Balanced,European High Yield,Bond,Corporate,Europe,33100,0.0365
+P020,Conservative,Allianz,Equity,Financials,Europe,121000,-0.0348
+P015,Conservative,Euro Gov Bond 2032,Bond,Government,Europe,103800,0.0692
+P003,Growth,Sony,Equity,Communication Services,Asia,46200,0.3267
+P009,Balanced,Visa,Equity,Financials,North America,122500,-0.0708
+P006,Growth,USD Cash,Cash,Cash,North America,69700,0.0176
+P012,Balanced,SAP,Equity,Technology,Europe,51800,0.251
+P012,Balanced,EUR Cash,Cash,Cash,Europe,101600,0.0301
+P014,Balanced,Novo Nordisk,Equity,Healthcare,Europe,44300,0.2001
+P011,Growth,EUR Cash,Cash,Cash,Europe,37400,0.0321
+P006,Growth,NVIDIA,Equity,Technology,North America,61000,0.1331
+P007,Growth,USD Cash,Cash,Cash,North America,74200,0.0168
+P005,Balanced,Visa,Equity,Financials,North America,61400,0.1507
+P001,Growth,LVMH,Equity,Consumer Discretionary,Europe,182100,0.0541
+P011,Growth,Siemens,Equity,Industrials,Europe,63300,0.2574
+P001,Growth,Allianz,Equity,Financials,Europe,123900,0.2157
+P017,Balanced,Samsung Electronics,Equity,Technology,Asia,166200,0.3238
+P017,Balanced,European High Yield,Bond,Corporate,Europe,199900,0.0186
+P002,Balanced,USD Cash,Cash,Cash,North America,79800,0.0307
+P019,Conservative,European High Yield,Bond,Corporate,Europe,29300,0.0622
+P008,Growth,Coca-Cola,Equity,Consumer Staples,North America,128100,0.0903
+P003,Growth,Alphabet,Equity,Communication Services,North America,74000,0.276
+P002,Balanced,Emerging Market Bond,Bond,Government,Emerging Markets,62200,0.0636
+P007,Growth,TSMC,Equity,Technology,Asia,84300,0.1487
+P004,Conservative,Emerging Market Bond,Bond,Government,Emerging Markets,143500,0.0555
+P005,Balanced,Euro Gov Bond 2032,Bond,Government,Europe,50200,0.0316
+P005,Balanced,USD Cash,Cash,Cash,North America,53100,0.0308
+P007,Growth,Emerging Market Bond,Bond,Government,Emerging Markets,229600,0.0807
+P016,Growth,Eli Lilly,Equity,Healthcare,North America,45500,0.008
+P005,Balanced,Emerging Market Bond,Bond,Government,Emerging Markets,48500,0.0284
+P019,Conservative,USD Cash,Cash,Cash,North America,92500,0.0243
+P002,Balanced,LVMH,Equity,Consumer Discretionary,Europe,57500,-0.019
+P006,Growth,Nestle,Equity,Consumer Staples,Europe,254200,0.0081
+P004,Conservative,Investment Grade Corp EUR,Bond,Corporate,Europe,102600,0.0374
+P007,Growth,Visa,Equity,Financials,North America,105200,0.1294
+P011,Growth,US Treasury 2033,Bond,Government,North America,82300,0.0056
+P019,Conservative,Novo Nordisk,Equity,Healthcare,Europe,49400,0.2025
+P008,Growth,USD Cash,Cash,Cash,North America,43700,0.0154
+P013,Conservative,US Treasury 2030,Bond,Government,North America,109900,0.0008
+P010,Balanced,Euro Gov Bond 2032,Bond,Government,Europe,69600,-0.0206
+P012,Balanced,Investment Grade Corp EUR,Bond,Corporate,Europe,45400,0.048
+P003,Growth,Schneider Electric,Equity,Industrials,Europe,82800,-0.1147
+P002,Balanced,Siemens,Equity,Industrials,Europe,74300,0.1966
+P003,Growth,JPMorgan Chase,Equity,Financials,North America,45200,0.3382
+P012,Balanced,Microsoft,Equity,Technology,North America,98700,0.196
+P015,Conservative,US Treasury 2033,Bond,Government,North America,65400,0.0392
+P017,Balanced,US Treasury 2030,Bond,Government,North America,161500,0.0495
+P016,Growth,Emerging Market Bond,Bond,Government,Emerging Markets,124400,0.0797
+P004,Conservative,Euro Gov Bond 2032,Bond,Government,Europe,91200,0.0648
+P002,Balanced,Investment Grade Corp USD,Bond,Corporate,North America,87900,0.0191
+P013,Conservative,Emerging Market Bond,Bond,Government,Emerging Markets,133400,-0.0147
+P003,Growth,Novo Nordisk,Equity,Healthcare,Europe,67600,0.0555
+P008,Growth,ASML,Equity,Technology,Europe,176900,0.139
+P017,Balanced,Eli Lilly,Equity,Healthcare,North America,112400,0.2569
+P018,Balanced,Samsung Electronics,Equity,Technology,Asia,186500,0.0803
+P012,Balanced,US Treasury 2030,Bond,Government,North America,80100,0.0308
+P011,Growth,Sony,Equity,Communication Services,Asia,50700,-0.1022
+P003,Growth,Toyota,Equity,Consumer Discretionary,Asia,63000,0.2115
+P020,Conservative,Emerging Market Bond,Bond,Government,Emerging Markets,137800,-0.0234
+P014,Balanced,Apple,Equity,Technology,North America,43600,0.2499
+P017,Balanced,Euro Gov Bond 2032,Bond,Government,Europe,146000,0.0804
+P001,Growth,EUR Cash,Cash,Cash,Europe,29900,0.0132
+P018,Balanced,Alphabet,Equity,Communication Services,North America,171400,0.2612
+P007,Growth,Siemens,Equity,Industrials,Europe,118300,0.2241
+P006,Growth,Samsung Electronics,Equity,Technology,Asia,70400,0.3047
+P006,Growth,Allianz,Equity,Financials,Europe,66500,0.0838
+P010,Balanced,Allianz,Equity,Financials,Europe,57200,-0.0514
+P003,Growth,Investment Grade Corp EUR,Bond,Corporate,Europe,80900,0.0044
+P006,Growth,Investment Grade Corp USD,Bond,Corporate,North America,139600,0.0684
+P015,Conservative,EUR Cash,Cash,Cash,Europe,152300,0.0316
+P013,Conservative,EUR Cash,Cash,Cash,Europe,193100,0.0158
+P005,Balanced,Investment Grade Corp EUR,Bond,Corporate,Europe,50700,0.0056
+P001,Growth,Coca-Cola,Equity,Consumer Staples,North America,96100,0.1267
+P015,Conservative,Visa,Equity,Financials,North America,100800,0.1992
+P007,Growth,Microsoft,Equity,Technology,North America,72900,-0.0937
+P004,Conservative,US Treasury 2030,Bond,Government,North America,79500,0.0015
+P019,Conservative,US Treasury 2030,Bond,Government,North America,43500,-0.0006
+P004,Conservative,LVMH,Equity,Consumer Discretionary,Europe,120800,0.1555
+P019,Conservative,US Treasury 2033,Bond,Government,North America,51600,-0.0148
+P018,Balanced,Investment Grade Corp USD,Bond,Corporate,North America,143800,0.0282
+P001,Growth,Euro Gov Bond 2029,Bond,Government,Europe,135400,0.0698
+P007,Growth,LVMH,Equity,Consumer Discretionary,Europe,138500,0.1113
+P015,Conservative,Sony,Equity,Communication Services,Asia,79800,-0.0563
+P002,Balanced,Coca-Cola,Equity,Consumer Staples,North America,47500,0.0042
+P005,Balanced,LVMH,Equity,Consumer Discretionary,Europe,50100,-0.1167
+P002,Balanced,Euro Gov Bond 2032,Bond,Government,Europe,91000,0.0754
+P014,Balanced,Emerging Market Bond,Bond,Government,Emerging Markets,33600,0.0099
+P001,Growth,European High Yield,Bond,Corporate,Europe,117300,0.0385
+P019,Conservative,Coca-Cola,Equity,Consumer Staples,North America,73900,0.0071
+P005,Balanced,Sony,Equity,Communication Services,Asia,74000,0.1348
+P008,Growth,Siemens,Equity,Industrials,Europe,180000,0.3073
+P004,Conservative,Toyota,Equity,Consumer Discretionary,Asia,120500,0.1048
+P003,Growth,LVMH,Equity,Consumer Discretionary,Europe,42800,0.1234
+P019,Conservative,Emerging Market Bond,Bond,Government,Emerging Markets,26700,0.046
+P006,Growth,US Treasury 2033,Bond,Government,North America,136200,-0.0067
+P016,Growth,Novo Nordisk,Equity,Healthcare,Europe,50800,0.2641
+P015,Conservative,Emerging Market Bond,Bond,Government,Emerging Markets,116900,0.0745
+P016,Growth,Coca-Cola,Equity,Consumer Staples,North America,70000,0.0306
+P012,Balanced,Euro Gov Bond 2029,Bond,Government,Europe,65800,0.0484
